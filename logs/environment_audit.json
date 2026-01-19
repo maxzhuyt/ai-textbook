@@ -1,0 +1,46 @@
+{
+  "audit_date": "2026-01-18",
+  "hardware": {
+    "gpu": {
+      "model": "NVIDIA H100 NVL",
+      "vram_gb": 95,
+      "driver_version": "535.216.03",
+      "cuda_version": "12.2"
+    },
+    "memory_gb": 503,
+    "cpu_cores": 16
+  },
+  "software": {
+    "python_version": "3.10.16",
+    "key_packages": {
+      "torch": "2.9.0",
+      "transformers": "4.57.3",
+      "PyPDF2": "3.0.1",
+      "pdfplumber": "0.11.9",
+      "PyMuPDF": "1.26.7",
+      "gensim": "4.4.0",
+      "nltk": "3.9.2",
+      "scikit-learn": "installed",
+      "matplotlib": "3.10.1",
+      "seaborn": "0.13.2",
+      "plotly": "6.5.0",
+      "networkx": "3.4.2",
+      "wordcloud": "1.9.5"
+    }
+  },
+  "local_llms_available": [
+    "Llama-3.3-70B-Instruct",
+    "Meta-Llama-3.1-70B-FP8",
+    "Qwen3-32B",
+    "Mistral-Small-3.2-24B-Instruct-2506",
+    "gemma-2-27b-it",
+    "DeepSeek-R1-Distill-Qwen-14B",
+    "Qwen3-14B",
+    "gemma-3-12b-it",
+    "Mistral-NeMo-12B-Instruct",
+    "Meta-Llama-3.1-8B-Instruct",
+    "Qwen2.5-7B-Instruct"
+  ],
+  "selected_llm_for_analysis": "Mistral-Small-3.2-24B-Instruct-2506",
+  "llm_selection_rationale": "Good balance of capability and speed for semantic classification tasks. Fits well in available VRAM with room for batch processing."
+}

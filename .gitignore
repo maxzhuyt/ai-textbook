@@ -1,0 +1,12 @@
+# Large PDF files (exceed GitHub 100MB limit)
+*.pdf
+
+# Raw PDFs symlink directory
+raw_pdfs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env

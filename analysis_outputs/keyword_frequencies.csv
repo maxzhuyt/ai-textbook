@@ -1,0 +1,675 @@
+doc_id,year,term,count,frequency_per_1000
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,generalization,289,1.3571452051449422
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,ensemble,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,big data,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,speech recognition,2,0.009392008340103406
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,perceptron,9,0.04226403753046533
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,probability,17,0.07983207089087895
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,clustering,150,0.7044006255077555
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,game playing,4,0.01878401668020681
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,probabilistic,10,0.046960041700517034
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,machine learning,183,0.8593687631194616
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,momentum,4,0.01878401668020681
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,image recognition,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,pattern recognition,85,0.39916035445439474
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,natural language,49,0.23010420433253345
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,expert system,9,0.04226403753046533
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,artificial intelligence,235,1.1035609799621502
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,kernel,16,0.07513606672082725
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,generative,10,0.046960041700517034
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,unsupervised learning,4,0.01878401668020681
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,feature extraction,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,sampling,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,computer vision,2,0.009392008340103406
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,fine tuning,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,decision tree,42,0.19723217514217153
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,validation,2,0.009392008340103406
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,classification,91,0.427336379474705
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,regression,3,0.01408801251015511
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,feature,21,0.09861608757108577
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,reinforcement learning,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,attention,32,0.1502721334416545
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,training data,9,0.04226403753046533
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,robotics,5,0.023480020850258517
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,supervised learning,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,boosting,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,discriminative,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,adam,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,optimization,1,0.004696004170051703
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,inference,228,1.0706889507717883
+1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell,1983,dimensionality reduction,2,0.009392008340103406
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,generalization,203,1.0700373722412275
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,backpropagation,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,neural networks,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,speech recognition,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,perceptron,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,probability,12,0.06325344072361937
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,clustering,44,0.23192928265327098
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,game playing,2,0.010542240120603228
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,machine learning,151,0.7959391291055435
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,embedding,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,momentum,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,pattern recognition,6,0.03162672036180968
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,natural language,18,0.09488016108542904
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,expert system,9,0.04744008054271452
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,gradient,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,artificial intelligence,107,0.5640098464522726
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,kernel,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,generative,2,0.010542240120603228
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,sampling,8,0.042168960482412914
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,computer vision,2,0.010542240120603228
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,decision tree,23,0.12123576138693712
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,validation,2,0.010542240120603228
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,classification,99,0.5218408859698598
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,regression,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,feature,65,0.34262280391960487
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,attention,17,0.08960904102512743
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,convex,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,robotics,2,0.010542240120603228
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,supervised learning,1,0.005271120060301614
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,optimization,2,0.010542240120603228
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,neural network,2,0.010542240120603228
+1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell,1986,inference,86,0.4533163251859388
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,gaussian,15,0.03501171725470791
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,generalization,78,0.18206092972448112
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,backpropagation,2,0.004668228967294388
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,neural networks,97,0.2264091049137778
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,gradient descent,15,0.03501171725470791
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,speech recognition,36,0.08402812141129899
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,perceptron,53,0.12370806763330126
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,probability,533,1.2440830197839545
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,cost function,10,0.02334114483647194
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,clustering,12,0.02800937380376633
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,game playing,33,0.07702577796035741
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,probabilistic,144,0.33611248564519597
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,machine learning,62,0.14471509798612603
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,pac learning,2,0.004668228967294388
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,test data,4,0.009336457934588776
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,embedding,2,0.004668228967294388
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,momentum,1,0.002334114483647194
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,pattern recognition,10,0.02334114483647194
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,bayesian,61,0.14238098350247885
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,natural language,125,0.29176431045589923
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,maximum likelihood,4,0.009336457934588776
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,expert system,29,0.06768932002576863
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,gradient,38,0.08869635037859337
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,belief network,70,0.16338801385530358
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,artificial intelligence,289,0.674559085774039
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,generative,6,0.014004686901883164
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,unsupervised learning,1,0.002334114483647194
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,feature extraction,1,0.002334114483647194
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,nlp,26,0.060686976574827044
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,sampling,18,0.042014060705649496
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,recurrent,13,0.030343488287413522
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,computer vision,34,0.0793598924440046
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,decision tree,67,0.156385670404362
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,validation,6,0.014004686901883164
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,classification,49,0.1143716096987125
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,regression,16,0.0373458317383551
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,feature,26,0.060686976574827044
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,reinforcement learning,71,0.16572212833895078
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,attention,26,0.060686976574827044
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,convex,9,0.021007030352824748
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,overfitting,7,0.016338801385530358
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,em algorithm,3,0.007002343450941582
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,training data,8,0.01867291586917755
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,robotics,94,0.21940676146283622
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,supervised learning,9,0.021007030352824748
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,hidden markov,11,0.025675259320119135
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,markov,68,0.1587197848880092
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,discriminative,1,0.002334114483647194
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,optimization,13,0.030343488287413522
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,neural network,63,0.14704921246977323
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,inference,393,0.9173069920733472
+1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1,1995,learning rate,6,0.014004686901883164
+1997_Machine_Learning_Tom_Mitchell,1997,gaussian,14,0.08060105357091453
+1997_Machine_Learning_Tom_Mitchell,1997,generalization,72,0.414519704078989
+1997_Machine_Learning_Tom_Mitchell,1997,backpropagation,41,0.23604594260053544
+1997_Machine_Learning_Tom_Mitchell,1997,neural networks,86,0.4951207576499036
+1997_Machine_Learning_Tom_Mitchell,1997,gradient descent,127,0.7311667002504391
+1997_Machine_Learning_Tom_Mitchell,1997,speech recognition,9,0.05181496300987363
+1997_Machine_Learning_Tom_Mitchell,1997,perceptron,75,0.4317913584156136
+1997_Machine_Learning_Tom_Mitchell,1997,probability,399,2.297130026771064
+1997_Machine_Learning_Tom_Mitchell,1997,clustering,5,0.028786090561040905
+1997_Machine_Learning_Tom_Mitchell,1997,game playing,2,0.011514436224416363
+1997_Machine_Learning_Tom_Mitchell,1997,probabilistic,32,0.18423097959066181
+1997_Machine_Learning_Tom_Mitchell,1997,machine learning,226,1.3011312933590489
+1997_Machine_Learning_Tom_Mitchell,1997,pac learning,14,0.08060105357091453
+1997_Machine_Learning_Tom_Mitchell,1997,vc dimension,42,0.2418031607127436
+1997_Machine_Learning_Tom_Mitchell,1997,test data,5,0.028786090561040905
+1997_Machine_Learning_Tom_Mitchell,1997,momentum,15,0.08635827168312271
+1997_Machine_Learning_Tom_Mitchell,1997,naive bayes,61,0.35119030484469904
+1997_Machine_Learning_Tom_Mitchell,1997,pattern recognition,11,0.06332939923428998
+1997_Machine_Learning_Tom_Mitchell,1997,bayesian,152,0.8750971530556435
+1997_Machine_Learning_Tom_Mitchell,1997,natural language,1,0.005757218112208182
+1997_Machine_Learning_Tom_Mitchell,1997,maximum likelihood,49,0.28210368749820086
+1997_Machine_Learning_Tom_Mitchell,1997,expert system,1,0.005757218112208182
+1997_Machine_Learning_Tom_Mitchell,1997,gradient,199,1.145686404329428
+1997_Machine_Learning_Tom_Mitchell,1997,belief network,9,0.05181496300987363
+1997_Machine_Learning_Tom_Mitchell,1997,artificial intelligence,29,0.16695932525403726
+1997_Machine_Learning_Tom_Mitchell,1997,objective function,5,0.028786090561040905
+1997_Machine_Learning_Tom_Mitchell,1997,kernel,28,0.16120210714182906
+1997_Machine_Learning_Tom_Mitchell,1997,expectation maximization,1,0.005757218112208182
+1997_Machine_Learning_Tom_Mitchell,1997,sampling,10,0.05757218112208181
+1997_Machine_Learning_Tom_Mitchell,1997,stochastic gradient,18,0.10362992601974726
+1997_Machine_Learning_Tom_Mitchell,1997,recurrent,17,0.09787270790753907
+1997_Machine_Learning_Tom_Mitchell,1997,data mining,7,0.040300526785457265
+1997_Machine_Learning_Tom_Mitchell,1997,decision tree,159,0.9153976798411008
+1997_Machine_Learning_Tom_Mitchell,1997,validation,64,0.36846195918132363
+1997_Machine_Learning_Tom_Mitchell,1997,classification,133,0.765710008923688
+1997_Machine_Learning_Tom_Mitchell,1997,regression,44,0.25331759693715994
+1997_Machine_Learning_Tom_Mitchell,1997,cross validation,3,0.017271654336624545
+1997_Machine_Learning_Tom_Mitchell,1997,feature,19,0.10938714413195544
+1997_Machine_Learning_Tom_Mitchell,1997,reinforcement learning,66,0.37997639540573996
+1997_Machine_Learning_Tom_Mitchell,1997,attention,1,0.005757218112208182
+1997_Machine_Learning_Tom_Mitchell,1997,convex,2,0.011514436224416363
+1997_Machine_Learning_Tom_Mitchell,1997,overfitting,48,0.2763464693859927
+1997_Machine_Learning_Tom_Mitchell,1997,em algorithm,33,0.18998819770286998
+1997_Machine_Learning_Tom_Mitchell,1997,training data,241,1.3874895650421717
+1997_Machine_Learning_Tom_Mitchell,1997,robotics,2,0.011514436224416363
+1997_Machine_Learning_Tom_Mitchell,1997,supervised learning,1,0.005757218112208182
+1997_Machine_Learning_Tom_Mitchell,1997,hidden markov,2,0.011514436224416363
+1997_Machine_Learning_Tom_Mitchell,1997,k-means,6,0.03454330867324909
+1997_Machine_Learning_Tom_Mitchell,1997,markov,21,0.1209015803563718
+1997_Machine_Learning_Tom_Mitchell,1997,boosting,1,0.005757218112208182
+1997_Machine_Learning_Tom_Mitchell,1997,monte carlo,2,0.011514436224416363
+1997_Machine_Learning_Tom_Mitchell,1997,optimization,22,0.12665879846857997
+1997_Machine_Learning_Tom_Mitchell,1997,neural network,105,0.6045079017818591
+1997_Machine_Learning_Tom_Mitchell,1997,inference,57,0.3281614323958663
+1997_Machine_Learning_Tom_Mitchell,1997,learning rate,18,0.10362992601974726
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,generalization,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,neural networks,14,0.37758239387237713
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,gradient descent,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,speech recognition,3,0.08091051297265225
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,perceptron,3,0.08091051297265225
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,probability,18,0.48546307783591347
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,cost function,6,0.1618210259453045
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,clustering,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,game playing,4,0.10788068396353633
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,probabilistic,10,0.2697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,machine learning,4,0.10788068396353633
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,bayesian,4,0.10788068396353633
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,natural language,20,0.5394034198176816
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,expert system,7,0.18879119693618857
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,gradient,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,belief network,2,0.05394034198176816
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,artificial intelligence,45,1.2136576945897837
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,generative,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,computer vision,3,0.08091051297265225
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,decision tree,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,reinforcement learning,5,0.1348508549544204
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,attention,2,0.05394034198176816
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,overfitting,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,robotics,11,0.2966718808997249
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,hidden markov,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,markov,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,optimization,1,0.02697017099088408
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,neural network,4,0.10788068396353633
+2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2,2002,inference,19,0.5124332488267975
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,gaussian,1026,3.5591632844208556
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,generalization,57,0.19773129357893643
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,backpropagation,69,0.23935893433239672
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,neural networks,136,0.47177992853921674
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,kernel method,1,0.0034689700627883583
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,gradient descent,21,0.07284837131855552
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,ensemble,8,0.027751760502306867
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,speech recognition,7,0.024282790439518507
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,principal component,34,0.11794498213480419
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,perceptron,61,0.21160717383008987
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,support vector,54,0.18732438339057134
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,probability,592,2.0536302771707082
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,cost function,7,0.024282790439518507
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,clustering,15,0.052034550941825373
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,probabilistic,211,0.7319526832483435
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,loss function,19,0.0659104311929788
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,regularization,83,0.28792451521143375
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,mcmc,3,0.010406910188365075
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,machine learning,53,0.183855413327783
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,pac learning,4,0.013875880251153433
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,vc dimension,2,0.006937940125576717
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,test data,9,0.031220730565095226
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,embedding,6,0.02081382037673015
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,momentum,14,0.048565580879037014
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,naive bayes,13,0.04509661081624866
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,multilayer perceptron,15,0.052034550941825373
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,pattern recognition,55,0.1907933534533597
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,bayesian,317,1.0996635099039096
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,natural language,3,0.010406910188365075
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,maximum likelihood,247,0.8568356055087244
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,convolutional,24,0.0832552815069206
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,gradient,113,0.3919936170950845
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,artificial intelligence,16,0.05550352100461373
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,objective function,8,0.027751760502306867
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,kernel,277,0.9609047073923752
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,generative,51,0.17691747320220627
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,unsupervised learning,5,0.01734485031394179
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,feature extraction,4,0.013875880251153433
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,pca,117,0.40586949734623795
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,expectation maximization,7,0.024282790439518507
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,sampling,234,0.8117389946924759
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,stochastic gradient,4,0.013875880251153433
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,computer vision,5,0.01734485031394179
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,data mining,3,0.010406910188365075
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,decision tree,5,0.01734485031394179
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,bagging,4,0.013875880251153433
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,validation,28,0.09713116175807403
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,graphical model,46,0.1595726228882645
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,classification,187,0.648697401741423
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,regression,409,1.4188087556804385
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,cross validation,1,0.0034689700627883583
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,feature,98,0.3399590661532591
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,reinforcement learning,3,0.010406910188365075
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,attention,11,0.03815867069067194
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,convex,44,0.15263468276268777
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,em algorithm,129,0.4474971380996982
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,training data,97,0.33649009609047076
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,robotics,1,0.0034689700627883583
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,supervised learning,9,0.031220730565095226
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,hidden markov,108,0.3746487667811427
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,k-means,55,0.1907933534533597
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,markov,245,0.8498976653831477
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,boosting,28,0.09713116175807403
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,discriminative,27,0.09366219169528567
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,adam,1,0.0034689700627883583
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,monte carlo,64,0.22201408401845493
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,optimization,112,0.3885246470322961
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,neural network,65,0.22548305408124328
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,inference,204,0.7076698928088251
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,learning rate,8,0.027751760502306867
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,dimensionality reduction,9,0.031220730565095226
+2006_Bishop-Pattern-Recognition-and-Machine-Learning,2006,svm,37,0.12835189232316926
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,gaussian,145,0.25369608958096407
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,generalization,86,0.15046802554457178
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,backpropagation,2,0.0034992564080132973
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,neural networks,61,0.10672732044440555
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,kernel method,1,0.0017496282040066486
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,gradient descent,21,0.03674219228413962
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,ensemble,37,0.06473624354824599
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,speech recognition,54,0.09447992301635902
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,perceptron,47,0.08223252558831248
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,support vector,25,0.04374070510016621
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,probability,907,1.5869127810340302
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,cost function,15,0.026244423060099727
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,clustering,31,0.0542384743242061
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,game playing,16,0.027994051264106378
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,probabilistic,287,0.5021432945499081
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,loss function,21,0.03674219228413962
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,regularization,32,0.055988102528212756
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,mcmc,39,0.0682354999562593
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,machine learning,112,0.19595835884874466
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,pac learning,8,0.013997025632053189
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,vc dimension,4,0.0069985128160265945
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,test data,4,0.0069985128160265945
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,embedding,3,0.005248884612019946
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,naive bayes,36,0.06298661534423934
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,pattern recognition,14,0.024494794856093082
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,bayesian,396,0.6928527687866328
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,natural language,107,0.1872102178287114
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,underfitting,3,0.005248884612019946
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,maximum likelihood,11,0.019245910244073135
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,convolutional,2,0.0034992564080132973
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,expert system,12,0.020995538448079783
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,gradient,91,0.15921616656460502
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,belief network,2,0.0034992564080132973
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,artificial intelligence,156,0.2729419998250372
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,objective function,19,0.033242935876126326
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,kernel,53,0.09273029481235237
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,generative,6,0.010497769224039891
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,unsupervised learning,7,0.012247397428046541
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,feature extraction,2,0.0034992564080132973
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,feature selection,9,0.015746653836059835
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,nlp,5,0.008748141020033243
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,expectation maximization,1,0.0017496282040066486
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,semi-supervised,5,0.008748141020033243
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,sampling,107,0.1872102178287114
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,stochastic gradient,4,0.0069985128160265945
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,recurrent,9,0.015746653836059835
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,computer vision,41,0.0717347563642726
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,data mining,12,0.020995538448079783
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,decision tree,75,0.13122211530049865
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,bagging,3,0.005248884612019946
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,validation,64,0.11197620505642551
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,graphical model,3,0.005248884612019946
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,classification,124,0.2169538972968244
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,regression,128,0.22395241011285102
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,cross validation,1,0.0017496282040066486
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,feature,103,0.18021170501268483
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,reinforcement learning,123,0.21520426909281778
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,attention,40,0.06998512816026595
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,convex,29,0.05073921791619281
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,overfitting,25,0.04374070510016621
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,em algorithm,25,0.04374070510016621
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,training data,28,0.048989589712186164
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,robotics,130,0.22745166652086432
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,supervised learning,25,0.04374070510016621
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,hidden markov,39,0.0682354999562593
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,markov,182,0.31843233312921004
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,boosting,21,0.03674219228413962
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,discriminative,6,0.010497769224039891
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,adam,1,0.0017496282040066486
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,monte carlo,42,0.07348438456827924
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,optimization,79,0.13822062811652525
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,neural network,41,0.0717347563642726
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,inference,474,0.8293237686991514
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,learning rate,5,0.008748141020033243
+2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3,2010,svm,11,0.019245910244073135
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,gaussian,819,2.0070872972694787
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,generalization,30,0.07351968121866223
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,backpropagation,13,0.03185852852808697
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,neural networks,77,0.18870051512789973
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,kernel method,2,0.004901312081244149
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,gradient descent,48,0.11763148994985957
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,ensemble,29,0.07106902517804016
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,big data,6,0.014703936243732446
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,speech recognition,26,0.06371705705617393
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,autoencoder,3,0.007351968121866223
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,bias variance,1,0.0024506560406220746
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,principal component,14,0.034309184568709045
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,perceptron,21,0.05146377685306357
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,support vector,27,0.06616771309679602
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,probability,510,1.249834580717258
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,cost function,7,0.017154592284354522
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,clustering,227,0.5562989212212109
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,probabilistic,195,0.47787792792130457
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,loss function,61,0.14949001847794655
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,regularization,116,0.28427610071216064
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,mcmc,135,0.3308385654839801
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,machine learning,218,0.5342430168556123
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,vc dimension,3,0.007351968121866223
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,test data,8,0.019605248324976596
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,embedding,20,0.04901312081244149
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,momentum,7,0.017154592284354522
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,naive bayes,68,0.16664461076230105
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,multilayer perceptron,2,0.004901312081244149
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,pattern recognition,6,0.014703936243732446
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,bayesian,591,1.448337720007646
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,natural language,18,0.04411180873119735
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,underfitting,4,0.009802624162488298
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,maximum likelihood,61,0.14949001847794655
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,convolutional,31,0.0759703372592843
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,expert system,3,0.007351968121866223
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,gradient,252,0.6175653222367629
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,belief network,4,0.009802624162488298
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,artificial intelligence,8,0.019605248324976596
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,objective function,32,0.07842099329990639
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,kernel,345,0.8454763340146157
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,generative,131,0.32103594132149177
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,unsupervised learning,29,0.07106902517804016
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,random forest,2,0.004901312081244149
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,feature extraction,4,0.009802624162488298
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,feature selection,24,0.058815744974929786
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,pca,191,0.46807530375881623
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,nlp,3,0.007351968121866223
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,expectation maximization,2,0.004901312081244149
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,semi-supervised,10,0.024506560406220745
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,sampling,350,0.8577296142177261
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,stochastic gradient,23,0.056365088934307715
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,recurrent,18,0.04411180873119735
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,computer vision,18,0.04411180873119735
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,fine tuning,1,0.0024506560406220746
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,data mining,19,0.04656246477181942
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,lstm,2,0.004901312081244149
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,decision tree,13,0.03185852852808697
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,bagging,6,0.014703936243732446
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,validation,70,0.1715459228435452
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,graphical model,93,0.22791101177785295
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,classification,219,0.5366936728962344
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,regression,669,1.639488891176168
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,cross validation,44,0.10782886578737128
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,feature,221,0.5415949849774785
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,reinforcement learning,11,0.02695721644684282
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,attention,6,0.014703936243732446
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,convex,186,0.4558220235557059
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,overfitting,56,0.13723673827483618
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,em algorithm,92,0.22546035573723086
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,training data,60,0.14703936243732446
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,robotics,11,0.02695721644684282
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,supervised learning,28,0.06861836913741809
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,hidden markov,51,0.1249834580717258
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,k-means,42,0.10292755370612713
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,markov,375,0.9189960152332779
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,boosting,72,0.1764472349247894
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,discriminative,91,0.2230096996966088
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,dataset,54,0.13233542619359204
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,monte carlo,127,0.31123331715900343
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,optimization,149,0.36514775005268907
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,neural network,43,0.1053782097467492
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,inference,543,1.3307062300577865
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,learning rate,9,0.022055904365598674
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,dimensionality reduction,9,0.022055904365598674
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,deep learning,18,0.04411180873119735
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,svm,55,0.1347860822342141
+2012_Machine Learning_ A Probabilistic Perspective_Murphy,2012,transfer learning,3,0.007351968121866223
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,gaussian,139,0.26013497074885183
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,generalization,75,0.14036059572779777
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,backpropagation,2,0.00374294921940794
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,neural networks,55,0.10293110353371836
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,kernel method,1,0.00187147460970397
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,gradient descent,18,0.03368654297467146
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,ensemble,32,0.05988718751052704
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,speech recognition,45,0.08421635743667866
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,perceptron,42,0.07860193360756675
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,support vector,21,0.03930096680378337
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,probability,861,1.6113396389551182
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,cost function,15,0.028072119145559554
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,clustering,28,0.05240128907171116
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,game playing,13,0.02432916992615161
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,probabilistic,326,0.6101007227634943
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,loss function,20,0.0374294921940794
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,regularization,31,0.05801571290082308
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,mcmc,35,0.06550161133963896
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,machine learning,101,0.189018935580101
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,pac learning,6,0.011228847658223821
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,vc dimension,3,0.0056144238291119105
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,test data,4,0.00748589843881588
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,embedding,3,0.0056144238291119105
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,naive bayes,32,0.05988718751052704
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,pattern recognition,15,0.028072119145559554
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,bayesian,356,0.6662449610546134
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,natural language,141,0.2638779199682598
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,underfitting,3,0.0056144238291119105
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,maximum likelihood,8,0.01497179687763176
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,convolutional,2,0.00374294921940794
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,expert system,11,0.020586220706743673
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,gradient,86,0.16094681643454142
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,belief network,1,0.00187147460970397
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,artificial intelligence,148,0.2769782422361876
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,objective function,19,0.03555801758437543
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,kernel,50,0.0935737304851985
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,generative,5,0.00935737304851985
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,unsupervised learning,5,0.00935737304851985
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,feature extraction,1,0.00187147460970397
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,feature selection,8,0.01497179687763176
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,nlp,4,0.00748589843881588
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,expectation maximization,1,0.00187147460970397
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,semi-supervised,4,0.00748589843881588
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,sampling,101,0.189018935580101
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,stochastic gradient,3,0.0056144238291119105
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,recurrent,8,0.01497179687763176
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,computer vision,35,0.06550161133963896
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,data mining,12,0.022457695316447642
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,decision tree,73,0.13661764650838984
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,bagging,2,0.00374294921940794
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,validation,57,0.10667405275312629
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,graphical model,2,0.00374294921940794
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,classification,110,0.20586220706743671
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,regression,111,0.20773368167714068
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,cross validation,1,0.00187147460970397
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,feature,96,0.17966156253158114
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,reinforcement learning,114,0.21334810550625258
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,attention,38,0.07111603516875085
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,convex,28,0.05240128907171116
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,overfitting,24,0.044915390632895284
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,em algorithm,19,0.03555801758437543
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,training data,27,0.050529814462007196
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,robotics,141,0.2638779199682598
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,supervised learning,20,0.0374294921940794
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,hidden markov,31,0.05801571290082308
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,markov,159,0.29756446294293126
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,boosting,20,0.0374294921940794
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,discriminative,5,0.00935737304851985
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,adam,1,0.00187147460970397
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,monte carlo,35,0.06550161133963896
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,optimization,69,0.12913174806957395
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,neural network,31,0.05801571290082308
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,inference,459,0.8590068458541222
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,learning rate,6,0.011228847658223821
+"2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J",2014,svm,11,0.020586220706743673
+2014_understanding-machine-learning-theory-algorithms,2014,gaussian,20,0.12682549446089653
+2014_understanding-machine-learning-theory-algorithms,2014,generalization,56,0.35511138449051033
+2014_understanding-machine-learning-theory-algorithms,2014,backpropagation,15,0.0951191208456724
+2014_understanding-machine-learning-theory-algorithms,2014,neural networks,51,0.32340501087528617
+2014_understanding-machine-learning-theory-algorithms,2014,gradient descent,61,0.3868177581057344
+2014_understanding-machine-learning-theory-algorithms,2014,ensemble,1,0.006341274723044826
+2014_understanding-machine-learning-theory-algorithms,2014,big data,1,0.006341274723044826
+2014_understanding-machine-learning-theory-algorithms,2014,speech recognition,1,0.006341274723044826
+2014_understanding-machine-learning-theory-algorithms,2014,principal component,8,0.05073019778435861
+2014_understanding-machine-learning-theory-algorithms,2014,perceptron,66,0.41852413172095854
+2014_understanding-machine-learning-theory-algorithms,2014,support vector,19,0.1204842197378517
+2014_understanding-machine-learning-theory-algorithms,2014,probability,252,1.5980012302072963
+2014_understanding-machine-learning-theory-algorithms,2014,cost function,2,0.012682549446089653
+2014_understanding-machine-learning-theory-algorithms,2014,clustering,144,0.913143560118455
+2014_understanding-machine-learning-theory-algorithms,2014,probabilistic,11,0.0697540219534931
+2014_understanding-machine-learning-theory-algorithms,2014,loss function,145,0.9194848348414998
+2014_understanding-machine-learning-theory-algorithms,2014,regularization,64,0.4058415822748689
+2014_understanding-machine-learning-theory-algorithms,2014,machine learning,126,0.7990006151036482
+2014_understanding-machine-learning-theory-algorithms,2014,pac learning,59,0.3741352086596448
+2014_understanding-machine-learning-theory-algorithms,2014,vc dimension,39,0.24730971419874823
+2014_understanding-machine-learning-theory-algorithms,2014,test data,1,0.006341274723044826
+2014_understanding-machine-learning-theory-algorithms,2014,embedding,11,0.0697540219534931
+2014_understanding-machine-learning-theory-algorithms,2014,naive bayes,8,0.05073019778435861
+2014_understanding-machine-learning-theory-algorithms,2014,pattern recognition,5,0.03170637361522413
+2014_understanding-machine-learning-theory-algorithms,2014,bayesian,22,0.1395080439069862
+2014_understanding-machine-learning-theory-algorithms,2014,natural language,4,0.025365098892179305
+2014_understanding-machine-learning-theory-algorithms,2014,underfitting,5,0.03170637361522413
+2014_understanding-machine-learning-theory-algorithms,2014,maximum likelihood,38,0.2409684394757034
+2014_understanding-machine-learning-theory-algorithms,2014,convolutional,3,0.01902382416913448
+2014_understanding-machine-learning-theory-algorithms,2014,gradient,109,0.6911989448118862
+2014_understanding-machine-learning-theory-algorithms,2014,artificial intelligence,3,0.01902382416913448
+2014_understanding-machine-learning-theory-algorithms,2014,objective function,17,0.10780167029176206
+2014_understanding-machine-learning-theory-algorithms,2014,kernel,74,0.46925432950531715
+2014_understanding-machine-learning-theory-algorithms,2014,generative,25,0.15853186807612069
+2014_understanding-machine-learning-theory-algorithms,2014,unsupervised learning,12,0.07609529667653792
+2014_understanding-machine-learning-theory-algorithms,2014,random forest,3,0.01902382416913448
+2014_understanding-machine-learning-theory-algorithms,2014,feature selection,28,0.17755569224525516
+2014_understanding-machine-learning-theory-algorithms,2014,pca,54,0.3424288350444206
+2014_understanding-machine-learning-theory-algorithms,2014,sampling,18,0.11414294501480687
+2014_understanding-machine-learning-theory-algorithms,2014,stochastic gradient,32,0.20292079113743444
+2014_understanding-machine-learning-theory-algorithms,2014,computer vision,1,0.006341274723044826
+2014_understanding-machine-learning-theory-algorithms,2014,data mining,2,0.012682549446089653
+2014_understanding-machine-learning-theory-algorithms,2014,decision tree,29,0.18389696696829996
+2014_understanding-machine-learning-theory-algorithms,2014,bagging,1,0.006341274723044826
+2014_understanding-machine-learning-theory-algorithms,2014,validation,87,0.5516909009048999
+2014_understanding-machine-learning-theory-algorithms,2014,classification,92,0.583397274520124
+2014_understanding-machine-learning-theory-algorithms,2014,regression,98,0.6214449228583929
+2014_understanding-machine-learning-theory-algorithms,2014,cross validation,12,0.07609529667653792
+2014_understanding-machine-learning-theory-algorithms,2014,feature,226,1.4331280874081307
+2014_understanding-machine-learning-theory-algorithms,2014,reinforcement learning,1,0.006341274723044826
+2014_understanding-machine-learning-theory-algorithms,2014,attention,5,0.03170637361522413
+2014_understanding-machine-learning-theory-algorithms,2014,convex,293,1.857993493852134
+2014_understanding-machine-learning-theory-algorithms,2014,overfitting,36,0.22828589002961375
+2014_understanding-machine-learning-theory-algorithms,2014,em algorithm,8,0.05073019778435861
+2014_understanding-machine-learning-theory-algorithms,2014,training data,18,0.11414294501480687
+2014_understanding-machine-learning-theory-algorithms,2014,supervised learning,5,0.03170637361522413
+2014_understanding-machine-learning-theory-algorithms,2014,hidden markov,2,0.012682549446089653
+2014_understanding-machine-learning-theory-algorithms,2014,k-means,61,0.3868177581057344
+2014_understanding-machine-learning-theory-algorithms,2014,markov,16,0.10146039556871722
+2014_understanding-machine-learning-theory-algorithms,2014,boosting,36,0.22828589002961375
+2014_understanding-machine-learning-theory-algorithms,2014,discriminative,8,0.05073019778435861
+2014_understanding-machine-learning-theory-algorithms,2014,optimization,83,0.5263258020127206
+2014_understanding-machine-learning-theory-algorithms,2014,neural network,19,0.1204842197378517
+2014_understanding-machine-learning-theory-algorithms,2014,inference,3,0.01902382416913448
+2014_understanding-machine-learning-theory-algorithms,2014,dimensionality reduction,26,0.16487314279916548
+2014_understanding-machine-learning-theory-algorithms,2014,svm,110,0.6975402195349308
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,gaussian,157,0.26038081938692753
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,generalization,74,0.12272726518874291
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,backpropagation,3,0.004975429669813903
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,neural networks,137,0.2272112882548349
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,kernel method,1,0.001658476556604634
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,gradient descent,48,0.07960687471702245
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,ensemble,66,0.10945945273590585
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,big data,13,0.021560195235860245
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,speech recognition,49,0.08126535127362708
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,autoencoder,16,0.026535624905674144
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,transformer,60,0.09950859339627804
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,principal component,1,0.001658476556604634
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,perceptron,22,0.036486484245301945
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,support vector,18,0.029852578018883413
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,probability,911,1.5108721430668217
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,cost function,36,0.05970515603776683
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,clustering,27,0.04477886702832512
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,game playing,12,0.019901718679255612
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,probabilistic,361,0.5987100369342729
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,loss function,41,0.06799753882078999
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,regularization,40,0.06633906226418536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,mcmc,61,0.10116706995288269
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,machine learning,295,0.4892505841983671
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,pac learning,7,0.011609335896232439
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,vc dimension,4,0.006633906226418536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,test data,4,0.006633906226418536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,embedding,71,0.11775183551892902
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,momentum,4,0.006633906226418536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,naive bayes,47,0.0779483981604178
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,image recognition,2,0.003316953113209268
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,pattern recognition,20,0.03316953113209268
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,bayesian,391,0.648464333632412
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,natural language,140,0.23218671792464876
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,underfitting,6,0.009950859339627806
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,maximum likelihood,11,0.018243242122650973
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,convolutional,58,0.09619164028306879
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,expert system,12,0.019901718679255612
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,gradient,193,0.32008597542469436
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,belief network,1,0.001658476556604634
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,artificial intelligence,144,0.2388206241510673
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,objective function,23,0.03814496080190658
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,kernel,77,0.12770269485855684
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,generative,75,0.12438574174534757
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,unsupervised learning,25,0.041461913915115854
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,random forest,4,0.006633906226418536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,feature extraction,4,0.006633906226418536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,feature selection,9,0.014926289009441707
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,pca,10,0.01658476556604634
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,nlp,49,0.08126535127362708
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,dropout,17,0.02819410146227878
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,expectation maximization,2,0.003316953113209268
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,semi-supervised,1,0.001658476556604634
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,sampling,205,0.33998769410394997
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,stochastic gradient,11,0.018243242122650973
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,recurrent,50,0.08292382783023171
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,computer vision,102,0.16916460877367268
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,data mining,11,0.018243242122650973
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,lstm,17,0.02819410146227878
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,decision tree,52,0.08624078094344098
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,bagging,17,0.02819410146227878
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,validation,81,0.13433660108497536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,graphical model,4,0.006633906226418536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,classification,130,0.21560195235860244
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,representation learning,2,0.003316953113209268
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,regression,169,0.28028253806618314
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,feature,116,0.19238328056613757
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,reinforcement learning,248,0.41130218603794927
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,attention,108,0.17911546811330048
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,convex,29,0.04809582014153439
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,overfitting,40,0.06633906226418536
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,em algorithm,24,0.039803437358511225
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,training data,60,0.09950859339627804
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,robotics,165,0.2736486318397646
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,supervised learning,44,0.07297296849060389
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,hidden markov,38,0.0630221091509761
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,markov,207,0.34330464721715925
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,boosting,45,0.07463144504720853
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,pretrained,27,0.04477886702832512
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,batch normalization,13,0.021560195235860245
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,discriminative,19,0.03151105457548805
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,dataset,5,0.00829238278302317
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,adam,1,0.001658476556604634
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,monte carlo,104,0.17248156188688196
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,optimization,140,0.23218671792464876
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,neural network,79,0.1310196479717661
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,inference,532,0.8823095281136654
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,learning rate,14,0.023218671792464878
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,dimensionality reduction,1,0.001658476556604634
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,deep learning,181,0.30018425674543875
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,gan,12,0.019901718679255612
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,svm,10,0.01658476556604634
+2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4,2022,transfer learning,37,0.061363632594371456

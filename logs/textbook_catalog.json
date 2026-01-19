@@ -1,0 +1,137 @@
+{
+  "catalog_date": "2026-01-18",
+  "total_books": 12,
+  "date_range": "1983-2022",
+  "textbooks": [
+    {
+      "id": "1983_michalski",
+      "year": 1983,
+      "title": "Machine Learning: An Artificial Intelligence Approach",
+      "authors": ["R. Michalski", "J. Carbonell", "T. Mitchell"],
+      "filename": "1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell.pdf",
+      "size_mb": 28.6,
+      "category": "ML_foundational",
+      "era": "early"
+    },
+    {
+      "id": "1986_anderson",
+      "year": 1986,
+      "title": "Machine Learning: An Artificial Intelligence Approach Vol. 2",
+      "authors": ["J. Anderson", "J. Carbonell", "T. Mitchell"],
+      "filename": "1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell.pdf",
+      "size_mb": 44.4,
+      "category": "ML_foundational",
+      "era": "early"
+    },
+    {
+      "id": "1995_aima_ed1",
+      "year": 1995,
+      "title": "Artificial Intelligence: A Modern Approach (1st Edition)",
+      "authors": ["S. Russell", "P. Norvig"],
+      "filename": "1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1.pdf",
+      "size_mb": 36.2,
+      "category": "AI_comprehensive",
+      "era": "early"
+    },
+    {
+      "id": "1997_mitchell",
+      "year": 1997,
+      "title": "Machine Learning",
+      "authors": ["T. Mitchell"],
+      "filename": "1997_Machine_Learning_Tom_Mitchell.pdf",
+      "size_mb": 57.5,
+      "category": "ML_foundational",
+      "era": "middle"
+    },
+    {
+      "id": "2002_aima_ed2",
+      "year": 2002,
+      "title": "Artificial Intelligence: A Modern Approach (2nd Edition)",
+      "authors": ["S. Russell", "P. Norvig"],
+      "filename": "2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2.pdf",
+      "size_mb": 203.2,
+      "category": "AI_comprehensive",
+      "era": "middle"
+    },
+    {
+      "id": "2003_mitchell",
+      "year": 2003,
+      "title": "Machine Learning",
+      "authors": ["T. Mitchell"],
+      "filename": "2003_Machine Learning_Tom_Mitchell.pdf",
+      "size_mb": 30.1,
+      "category": "ML_foundational",
+      "era": "middle"
+    },
+    {
+      "id": "2006_bishop",
+      "year": 2006,
+      "title": "Pattern Recognition and Machine Learning",
+      "authors": ["C. Bishop"],
+      "filename": "2006_Bishop-Pattern-Recognition-and-Machine-Learning.pdf",
+      "size_mb": 17.3,
+      "category": "ML_probabilistic",
+      "era": "middle"
+    },
+    {
+      "id": "2010_aima_ed3",
+      "year": 2010,
+      "title": "Artificial Intelligence: A Modern Approach (3rd Edition)",
+      "authors": ["S. Russell", "P. Norvig"],
+      "filename": "2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3.pdf",
+      "size_mb": 19.4,
+      "category": "AI_comprehensive",
+      "era": "middle"
+    },
+    {
+      "id": "2012_murphy",
+      "year": 2012,
+      "title": "Machine Learning: A Probabilistic Perspective",
+      "authors": ["K. Murphy"],
+      "filename": "2012_Machine Learning_ A Probabilistic Perspective_Murphy.pdf",
+      "size_mb": 16.6,
+      "category": "ML_probabilistic",
+      "era": "recent"
+    },
+    {
+      "id": "2014_aima",
+      "year": 2014,
+      "title": "Artificial Intelligence: A Modern Approach",
+      "authors": ["S. Russell", "P. Norvig"],
+      "filename": "2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J.pdf",
+      "size_mb": 15.4,
+      "category": "AI_comprehensive",
+      "era": "recent"
+    },
+    {
+      "id": "2014_shalev",
+      "year": 2014,
+      "title": "Understanding Machine Learning: From Theory to Algorithms",
+      "authors": ["S. Shalev-Shwartz", "S. Ben-David"],
+      "filename": "2014_understanding-machine-learning-theory-algorithms.pdf",
+      "size_mb": 2.5,
+      "category": "ML_theoretical",
+      "era": "recent"
+    },
+    {
+      "id": "2022_aima_ed4",
+      "year": 2022,
+      "title": "Artificial Intelligence: A Modern Approach (4th Edition)",
+      "authors": ["S. Russell", "P. Norvig"],
+      "filename": "2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4.pdf",
+      "size_mb": 12.3,
+      "category": "AI_comprehensive",
+      "era": "recent"
+    }
+  ],
+  "era_definitions": {
+    "early": "1983-1995",
+    "middle": "1996-2010",
+    "recent": "2011-2022"
+  },
+  "book_series": {
+    "AIMA (Russell & Norvig)": ["1995_aima_ed1", "2002_aima_ed2", "2010_aima_ed3", "2014_aima", "2022_aima_ed4"],
+    "Mitchell ML": ["1997_mitchell", "2003_mitchell"],
+    "ML: AI Approach": ["1983_michalski", "1986_anderson"]
+  }
+}

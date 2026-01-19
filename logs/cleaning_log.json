@@ -1,0 +1,955 @@
+{
+  "processing_date": "2026-01-18T13:56:57.148811",
+  "total_files": 12,
+  "results": [
+    {
+      "filename": "1983_Machine Learning_An Artificial Intelligence Approach_Michalski_Carbonell_Mitchell.txt",
+      "year": 1983,
+      "word_count": 212947,
+      "chapter_count": 37,
+      "chapters": [
+        {
+          "number": "15",
+          "title": "of this book).",
+          "line_number": 2734,
+          "position": 204395,
+          "end_position": 204956
+        },
+        {
+          "number": "5",
+          "title": "of this book, in the context of analogy-based learning.",
+          "line_number": 2741,
+          "position": 204956,
+          "end_position": 210090
+        },
+        {
+          "number": "3",
+          "title": "Vi existential quantifier over Vj",
+          "line_number": 2810,
+          "position": 210090,
+          "end_position": 220345
+        },
+        {
+          "number": "15",
+          "title": "of this book).",
+          "line_number": 2948,
+          "position": 220345,
+          "end_position": 221082
+        },
+        {
+          "number": "11",
+          "title": "of this book).",
+          "line_number": 2961,
+          "position": 221082,
+          "end_position": 278726
+        },
+        {
+          "number": "11",
+          "title": "of this book gives an illustration and an algorithm for generating a bounded star with c-expressions restricted to attribute expressions (that",
+          "line_number": 3807,
+          "position": 278726,
+          "end_position": 602130
+        },
+        {
+          "number": "TION",
+          "title": "TIMES",
+          "line_number": 8371,
+          "position": 602130,
+          "end_position": 1168644
+        },
+        {
+          "number": "11",
+          "title": "By this we mean an entity in which the variables are replaced by values in order to formulate a",
+          "line_number": 16836,
+          "position": 1168644,
+          "end_position": 1196477
+        },
+        {
+          "number": "512",
+          "title": "COMPREHENSIVE BIBLIOGRAPHY OF MACHINE LEARNING",
+          "line_number": 17275,
+          "position": 1196477,
+          "end_position": 1201067
+        },
+        {
+          "number": "514",
+          "title": "COMPREHENSIVE BIBLIOGRAPHY OF MACHINE LEARNING",
+          "line_number": 17347,
+          "position": 1201067,
+          "end_position": 1206271
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 1298,
+        "data": 241,
+        "algorithm": 210,
+        "test": 200,
+        "training": 170,
+        "model": 133,
+        "function": 125,
+        "classification": 91,
+        "hypothesis": 67,
+        "network": 54
+      }
+    },
+    {
+      "filename": "1986_Macine Learning_ An Artificial Intelligence Approach_Anderson_Carbonell_Mitchell.txt",
+      "year": 1986,
+      "word_count": 189713,
+      "chapter_count": 68,
+      "chapters": [
+        {
+          "number": "1321",
+          "title": "Ridder Park Drive",
+          "line_number": 12,
+          "position": 178,
+          "end_position": 2473
+        },
+        {
+          "number": "10",
+          "title": "ofthis book is a portion ofa book to be released soon by Kluwer Academic",
+          "line_number": 80,
+          "position": 2473,
+          "end_position": 2664
+        },
+        {
+          "number": "17",
+          "title": "is a modified version ofanarticle published inArtificialIntelligenceJournal.",
+          "line_number": 83,
+          "position": 2664,
+          "end_position": 2891
+        },
+        {
+          "number": "ONE",
+          "title": "GENERAL ISSUES",
+          "line_number": 89,
+          "position": 2891,
+          "end_position": 2915
+        },
+        {
+          "number": "1",
+          "title": "Understanding the Nature of Learning:",
+          "line_number": 90,
+          "position": 2915,
+          "end_position": 3208
+        },
+        {
+          "number": "TWO",
+          "title": "LEARNING CONCEPTS AND RULES FROM",
+          "line_number": 98,
+          "position": 3208,
+          "end_position": 3262
+        },
+        {
+          "number": "3",
+          "title": "Learning by Augmenting Rules and",
+          "line_number": 100,
+          "position": 3262,
+          "end_position": 3435
+        },
+        {
+          "number": "5",
+          "title": "Shift of Bias for Inductive Concept Learning 107",
+          "line_number": 105,
+          "position": 3435,
+          "end_position": 3578
+        },
+        {
+          "number": "7",
+          "title": "Learning Concepts by Asking Questions 167",
+          "line_number": 109,
+          "position": 3578,
+          "end_position": 3885
+        },
+        {
+          "number": "THREE",
+          "title": "COGNITIVE ASPECTS OF LEARNING 245",
+          "line_number": 119,
+          "position": 3885,
+          "end_position": 3930
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 1005,
+        "model": 281,
+        "data": 183,
+        "function": 157,
+        "algorithm": 105,
+        "classification": 99,
+        "hypothesis": 67,
+        "feature": 65,
+        "test": 48,
+        "training": 46
+      }
+    },
+    {
+      "filename": "1995_Artificial Intelligence A Modern Approach_Russell_Norvig_ed1.txt",
+      "year": 1995,
+      "word_count": 428428,
+      "chapter_count": 58,
+      "chapters": [
+        {
+          "number": "2",
+          "title": "provides an overview of agent design, including a basic agent and environment",
+          "line_number": 83,
+          "position": 4918,
+          "end_position": 96791
+        },
+        {
+          "number": "14",
+          "title": "Chapter Introduction",
+          "line_number": 1427,
+          "position": 96791,
+          "end_position": 100200
+        },
+        {
+          "number": "10",
+          "title": "Heath Robinson was a cartoonist famous for his depictions of whimsical and absurdly complicated contraptions for",
+          "line_number": 1467,
+          "position": 100200,
+          "end_position": 137696
+        },
+        {
+          "number": "26",
+          "title": "Chapter Introduction",
+          "line_number": 1909,
+          "position": 137696,
+          "end_position": 308082
+        },
+        {
+          "number": "3",
+          "title": "showed that uninformed search strategies can find solutions to problems by systematically generating new states and testing them against the goal. Unfortunately, these strategies are",
+          "line_number": 4315,
+          "position": 308082,
+          "end_position": 547147
+        },
+        {
+          "number": "184",
+          "title": "Chapter Agents that Reason Logically",
+          "line_number": 7893,
+          "position": 547147,
+          "end_position": 632998
+        },
+        {
+          "number": "218",
+          "title": "Chapter Building a Knowledge Base",
+          "line_number": 9157,
+          "position": 632998,
+          "end_position": 641346
+        },
+        {
+          "number": "2",
+          "title": "It is important to remember that the goal for this knowledge base was to be consistent and useful within a world of",
+          "line_number": 9269,
+          "position": 641346,
+          "end_position": 768651
+        },
+        {
+          "number": "6",
+          "title": "defined the notion of inference, and showed how sound and complete inference can",
+          "line_number": 11017,
+          "position": 768651,
+          "end_position": 910450
+        },
+        {
+          "number": "1",
+          "title": "Vocalization I",
+          "line_number": 13119,
+          "position": 910450,
+          "end_position": 956706
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 934,
+        "function": 786,
+        "algorithm": 589,
+        "probability": 533,
+        "network": 490,
+        "model": 468,
+        "neural": 244,
+        "hypothesis": 207,
+        "data": 194,
+        "test": 179
+      }
+    },
+    {
+      "filename": "1997_Machine_Learning_Tom_Mitchell.txt",
+      "year": 1997,
+      "word_count": 173695,
+      "chapter_count": 86,
+      "chapters": [
+        {
+          "number": "1",
+          "title": "INTRODUCITON",
+          "line_number": 489,
+          "position": 23770,
+          "end_position": 58415
+        },
+        {
+          "number": "1",
+          "title": "and Chapter 2. Following these two chapters, the remaining chapters",
+          "line_number": 996,
+          "position": 58415,
+          "end_position": 58731
+        },
+        {
+          "number": "2",
+          "title": "covers concept learning based on symbolic or logical representations. It also discusses the general-to-specific ordering over hypotheses, and",
+          "line_number": 1000,
+          "position": 58731,
+          "end_position": 58924
+        },
+        {
+          "number": "3",
+          "title": "covers decision tree learning and the problem of overfitting the",
+          "line_number": 1002,
+          "position": 58924,
+          "end_position": 59132
+        },
+        {
+          "number": "4",
+          "title": "covers learning of artificial neural networks, especially the wellstudied BACKPROPAGATaIlOgoNr ithm, and the general approach of gradient",
+          "line_number": 1005,
+          "position": 59132,
+          "end_position": 59436
+        },
+        {
+          "number": "5",
+          "title": "presents basic concepts from statistics and estimation theory, focusing on evaluating the accuracy of hypotheses using limited samples of",
+          "line_number": 1009,
+          "position": 59436,
+          "end_position": 59739
+        },
+        {
+          "number": "6",
+          "title": "covers the Bayesian perspective on machine learning, including",
+          "line_number": 1013,
+          "position": 59739,
+          "end_position": 60143
+        },
+        {
+          "number": "7",
+          "title": "covers computational learning theory, including the Probably Approximately Correct (PAC) learning model and the Mistake-Bound learning",
+          "line_number": 1017,
+          "position": 60143,
+          "end_position": 60398
+        },
+        {
+          "number": "8",
+          "title": "describes instance-based learning methods, including nearest neighbor learning, locally weighted regression, and case-based reasoning.",
+          "line_number": 1020,
+          "position": 60398,
+          "end_position": 60543
+        },
+        {
+          "number": "9",
+          "title": "discusses learning algorithms modeled after biological evolution,",
+          "line_number": 1021,
+          "position": 60543,
+          "end_position": 60689
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 1804,
+        "training": 1385,
+        "hypothesis": 1064,
+        "algorithm": 590,
+        "data": 562,
+        "function": 559,
+        "network": 510,
+        "error": 407,
+        "probability": 399,
+        "neural": 241
+      }
+    },
+    {
+      "filename": "2002_Artificial Intelligence_A Modern Approach_Russell_Norvig_ed2.txt",
+      "year": 2002,
+      "word_count": 37078,
+      "chapter_count": 48,
+      "chapters": [
+        {
+          "number": "2",
+          "title": "provides an overview of agent design, including a basic agent and environment",
+          "line_number": 247,
+          "position": 9015,
+          "end_position": 17563
+        },
+        {
+          "number": "6",
+          "title": "Agents that Reason Logically",
+          "line_number": 360,
+          "position": 17563,
+          "end_position": 17614
+        },
+        {
+          "number": "8",
+          "title": "Building a Knowledge Base",
+          "line_number": 362,
+          "position": 17614,
+          "end_position": 17675
+        },
+        {
+          "number": "10",
+          "title": "Logical Reasoning Systems",
+          "line_number": 364,
+          "position": 17675,
+          "end_position": 17704
+        },
+        {
+          "number": "11",
+          "title": "Planning",
+          "line_number": 365,
+          "position": 17704,
+          "end_position": 17762
+        },
+        {
+          "number": "1",
+          "title": "Introduction",
+          "line_number": 368,
+          "position": 17762,
+          "end_position": 17777
+        },
+        {
+          "number": "2",
+          "title": "Intelligent Agents",
+          "line_number": 369,
+          "position": 17777,
+          "end_position": 17847
+        },
+        {
+          "number": "4",
+          "title": "Informed Search Methods",
+          "line_number": 372,
+          "position": 17847,
+          "end_position": 17873
+        },
+        {
+          "number": "5",
+          "title": "Game Playing",
+          "line_number": 373,
+          "position": 17873,
+          "end_position": 17929
+        },
+        {
+          "number": "12",
+          "title": "Practical Planning",
+          "line_number": 376,
+          "position": 17929,
+          "end_position": 17951
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 64,
+        "function": 41,
+        "test": 39,
+        "neural": 24,
+        "algorithm": 21,
+        "probability": 18,
+        "model": 16,
+        "network": 10,
+        "data": 10,
+        "bayesian": 4
+      }
+    },
+    {
+      "filename": "2003_Machine Learning_Tom_Mitchell.txt",
+      "year": 2003,
+      "word_count": 1724,
+      "chapter_count": 0,
+      "chapters": [],
+      "top_tech_terms": {}
+    },
+    {
+      "filename": "2006_Bishop-Pattern-Recognition-and-Machine-Learning.txt",
+      "year": 2006,
+      "word_count": 288270,
+      "chapter_count": 9,
+      "chapters": [
+        {
+          "number": "10",
+          "title": "Approximate Inference",
+          "line_number": 626,
+          "position": 24992,
+          "end_position": 26906
+        },
+        {
+          "number": "11",
+          "title": "Sampling Methods",
+          "line_number": 663,
+          "position": 26906,
+          "end_position": 28130
+        },
+        {
+          "number": "12",
+          "title": "Continuous Latent Variables",
+          "line_number": 691,
+          "position": 28130,
+          "end_position": 29315
+        },
+        {
+          "number": "13",
+          "title": "Sequential Data",
+          "line_number": 715,
+          "position": 29315,
+          "end_position": 30319
+        },
+        {
+          "number": "14",
+          "title": "Combining Models",
+          "line_number": 734,
+          "position": 30319,
+          "end_position": 188416
+        },
+        {
+          "number": "1",
+          "title": "and that is a central issue in pattern recognition.",
+          "line_number": 3756,
+          "position": 188416,
+          "end_position": 470995
+        },
+        {
+          "number": "2",
+          "title": "Tr",
+          "line_number": 9800,
+          "position": 470995,
+          "end_position": 824741
+        },
+        {
+          "number": "1",
+          "title": "that probability theory can be expressed in terms of two simple equations",
+          "line_number": 16966,
+          "position": 824741,
+          "end_position": 1084779
+        },
+        {
+          "number": "9",
+          "title": "in the context of Gaussian mixtures, where they manifested themselves as",
+          "line_number": 21596,
+          "position": 1084779,
+          "end_position": 1690982
+        }
+      ],
+      "top_tech_terms": {
+        "data": 1547,
+        "function": 1518,
+        "model": 1169,
+        "probability": 592,
+        "algorithm": 564,
+        "error": 507,
+        "regression": 409,
+        "network": 340,
+        "training": 318,
+        "bayesian": 317
+      }
+    },
+    {
+      "filename": "2010_Artificial Intelligence A Modern Approach_Russell_Norvig_ed3.txt",
+      "year": 2010,
+      "word_count": 571550,
+      "chapter_count": 56,
+      "chapters": [
+        {
+          "number": "10",
+          "title": "Classical Planning",
+          "line_number": 466,
+          "position": 25113,
+          "end_position": 25650
+        },
+        {
+          "number": "11",
+          "title": "Planning and Acting in the Real World",
+          "line_number": 481,
+          "position": 25650,
+          "end_position": 26098
+        },
+        {
+          "number": "12",
+          "title": "Knowledge Representation",
+          "line_number": 492,
+          "position": 26098,
+          "end_position": 26810
+        },
+        {
+          "number": "13",
+          "title": "Quantifying Uncertainty",
+          "line_number": 514,
+          "position": 26810,
+          "end_position": 27412
+        },
+        {
+          "number": "14",
+          "title": "Probabilistic Reasoning",
+          "line_number": 530,
+          "position": 27412,
+          "end_position": 28077
+        },
+        {
+          "number": "15",
+          "title": "Probabilistic Reasoning over Time",
+          "line_number": 549,
+          "position": 28077,
+          "end_position": 28711
+        },
+        {
+          "number": "16",
+          "title": "Making Simple Decisions",
+          "line_number": 567,
+          "position": 28711,
+          "end_position": 29395
+        },
+        {
+          "number": "17",
+          "title": "Making Complex Decisions",
+          "line_number": 584,
+          "position": 29395,
+          "end_position": 30005
+        },
+        {
+          "number": "18",
+          "title": "Learning from Examples",
+          "line_number": 601,
+          "position": 30005,
+          "end_position": 31010
+        },
+        {
+          "number": "19",
+          "title": "Knowledge in Learning",
+          "line_number": 627,
+          "position": 31010,
+          "end_position": 31548
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 1358,
+        "model": 1097,
+        "function": 1078,
+        "algorithm": 1066,
+        "probability": 907,
+        "data": 583,
+        "network": 486,
+        "bayesian": 396,
+        "hypothesis": 365,
+        "error": 266
+      }
+    },
+    {
+      "filename": "2012_Machine Learning_ A Probabilistic Perspective_Murphy.txt",
+      "year": 2012,
+      "word_count": 408054,
+      "chapter_count": 55,
+      "chapters": [
+        {
+          "number": "12",
+          "title": "Latent linear models",
+          "line_number": 654,
+          "position": 12519,
+          "end_position": 13452
+        },
+        {
+          "number": "13",
+          "title": "Sparse linear models",
+          "line_number": 707,
+          "position": 13452,
+          "end_position": 14802
+        },
+        {
+          "number": "14",
+          "title": "Kernels",
+          "line_number": 782,
+          "position": 14802,
+          "end_position": 15835
+        },
+        {
+          "number": "15",
+          "title": "Gaussian processes",
+          "line_number": 848,
+          "position": 15835,
+          "end_position": 16633
+        },
+        {
+          "number": "16",
+          "title": "Adaptive basis function models",
+          "line_number": 893,
+          "position": 16633,
+          "end_position": 17916
+        },
+        {
+          "number": "17",
+          "title": "Markov and hidden Markov models",
+          "line_number": 973,
+          "position": 17916,
+          "end_position": 18956
+        },
+        {
+          "number": "18",
+          "title": "State space models",
+          "line_number": 1033,
+          "position": 18956,
+          "end_position": 21076
+        },
+        {
+          "number": "20",
+          "title": "Exact inference for graphical models",
+          "line_number": 1150,
+          "position": 21076,
+          "end_position": 21726
+        },
+        {
+          "number": "21",
+          "title": "Variational inference",
+          "line_number": 1187,
+          "position": 21726,
+          "end_position": 22588
+        },
+        {
+          "number": "22",
+          "title": "More variational inference",
+          "line_number": 1230,
+          "position": 22588,
+          "end_position": 23782
+        }
+      ],
+      "top_tech_terms": {
+        "model": 1911,
+        "data": 1574,
+        "learning": 809,
+        "function": 782,
+        "algorithm": 781,
+        "regression": 669,
+        "bayesian": 591,
+        "probability": 510,
+        "training": 314,
+        "loss": 297
+      }
+    },
+    {
+      "filename": "2014_Artificial intelligence a modern approach_Norvig, PeterRussell, Stuart J.txt",
+      "year": 2014,
+      "word_count": 534338,
+      "chapter_count": 18,
+      "chapters": [
+        {
+          "number": "1",
+          "title": "We are assuming that most readers are in the same position and can easily imagine themselves to be as clueless",
+          "line_number": 2844,
+          "position": 200020,
+          "end_position": 250888
+        },
+        {
+          "number": "of",
+          "title": "the Romania state space, selected to illustrate uniform-cost search.",
+          "line_number": 3677,
+          "position": 250888,
+          "end_position": 394504
+        },
+        {
+          "number": "of",
+          "title": "the search graph for the slippery vacuum world, where we have shown",
+          "line_number": 5948,
+          "position": 394504,
+          "end_position": 450435
+        },
+        {
+          "number": "2",
+          "title": "Consider the problem of building railway tracks under the assumption that pieces fit exactly",
+          "line_number": 6716,
+          "position": 450435,
+          "end_position": 451189
+        },
+        {
+          "number": "5",
+          "title": "The",
+          "line_number": 6725,
+          "position": 451189,
+          "end_position": 515662
+        },
+        {
+          "number": "of",
+          "title": "a guaranteed checkmate in the KRK endgame, shown on a reduced",
+          "line_number": 7753,
+          "position": 515662,
+          "end_position": 756299
+        },
+        {
+          "number": "of",
+          "title": "the search tree for the map-coloring problem in Figure 1.",
+          "line_number": 11655,
+          "position": 756299,
+          "end_position": 775008
+        },
+        {
+          "number": "3",
+          "title": "A careful cartographer or patriotic Tasmanian might object that Tasmania should not be colored the same as",
+          "line_number": 11925,
+          "position": 775008,
+          "end_position": 970306
+        },
+        {
+          "number": "6",
+          "title": "A clause can also be represented as an implication with a conjunction of atoms in the premise and a disjunction",
+          "line_number": 14892,
+          "position": 970306,
+          "end_position": 1285506
+        },
+        {
+          "number": "5",
+          "title": "Several early systems failed to distinguish between properties of members of a category and properties of the",
+          "line_number": 19408,
+          "position": 1285506,
+          "end_position": 1352736
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 1282,
+        "model": 1043,
+        "function": 1028,
+        "algorithm": 1026,
+        "probability": 861,
+        "data": 573,
+        "network": 446,
+        "bayesian": 356,
+        "hypothesis": 341,
+        "error": 261
+      }
+    },
+    {
+      "filename": "2014_understanding-machine-learning-theory-algorithms.txt",
+      "year": 2014,
+      "word_count": 157697,
+      "chapter_count": 4,
+      "chapters": [
+        {
+          "number": "1",
+          "title": "A quadratic optimization problem is an optimization problem in which the objective is a",
+          "line_number": 8233,
+          "position": 408301,
+          "end_position": 464530
+        },
+        {
+          "number": "16",
+          "title": "and as we will discuss in more detail in Chapter 25). Two examples",
+          "line_number": 9415,
+          "position": 464530,
+          "end_position": 561839
+        },
+        {
+          "number": "8",
+          "title": "for examples of such cases). Another possibility is to use other activation functions (such as sigmoids, or any other type of efficiently computable",
+          "line_number": 11348,
+          "position": 561839,
+          "end_position": 645117
+        },
+        {
+          "number": "2",
+          "title": "A sufficient statistic is a function of the data which has the property of sufficiency with",
+          "line_number": 13044,
+          "position": 645117,
+          "end_position": 884371
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 999,
+        "function": 714,
+        "hypothesis": 590,
+        "algorithm": 546,
+        "loss": 429,
+        "training": 337,
+        "error": 323,
+        "probability": 252,
+        "feature": 226,
+        "data": 192
+      }
+    },
+    {
+      "filename": "2022_Artificial Intelligence A Modern Approach_Russell_Norvig_ed4.txt",
+      "year": 2022,
+      "word_count": 602963,
+      "chapter_count": 55,
+      "chapters": [
+        {
+          "number": "10",
+          "title": "Knowledge Representation",
+          "line_number": 307,
+          "position": 16992,
+          "end_position": 17678
+        },
+        {
+          "number": "11",
+          "title": "Automated Planning",
+          "line_number": 326,
+          "position": 17678,
+          "end_position": 18478
+        },
+        {
+          "number": "12",
+          "title": "Quantifying Uncertainty",
+          "line_number": 346,
+          "position": 18478,
+          "end_position": 19251
+        },
+        {
+          "number": "13",
+          "title": "Probabilistic Reasoning",
+          "line_number": 365,
+          "position": 19251,
+          "end_position": 19846
+        },
+        {
+          "number": "14",
+          "title": "Probabilistic Reasoning over Time",
+          "line_number": 380,
+          "position": 19846,
+          "end_position": 20488
+        },
+        {
+          "number": "15",
+          "title": "Probabilistic Programming",
+          "line_number": 397,
+          "position": 20488,
+          "end_position": 21011
+        },
+        {
+          "number": "16",
+          "title": "Making Simple Decisions",
+          "line_number": 409,
+          "position": 21011,
+          "end_position": 21784
+        },
+        {
+          "number": "17",
+          "title": "Making Complex Decisions",
+          "line_number": 427,
+          "position": 21784,
+          "end_position": 22387
+        },
+        {
+          "number": "18",
+          "title": "Multiagent Decision Making",
+          "line_number": 441,
+          "position": 22387,
+          "end_position": 22925
+        },
+        {
+          "number": "19",
+          "title": "Learning from Examples",
+          "line_number": 455,
+          "position": 22925,
+          "end_position": 23878
+        }
+      ],
+      "top_tech_terms": {
+        "learning": 1868,
+        "model": 1610,
+        "function": 1167,
+        "data": 1054,
+        "algorithm": 967,
+        "probability": 911,
+        "network": 603,
+        "bayesian": 391,
+        "training": 368,
+        "neural": 316
+      }
+    }
+  ]
+}
