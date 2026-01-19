@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Keyword-based Chapter Classification (Fast Alternative to LLM)
+Keyword-based Full Text Classification
 Uses domain-specific keyword matching to classify content.
+Analyzes full documents without chapter segmentation.
 """
 
 import os
@@ -9,8 +10,7 @@ import re
 import json
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, List
-from collections import defaultdict
+from typing import Dict
 
 # Domain-specific keyword sets
 DOMAIN_KEYWORDS = {
@@ -117,59 +117,15 @@ def classify_text(text: str) -> Dict[str, float]:
     return scores
 
 
-def extract_chapters(text: str, max_chapters: int = 30) -> List[Dict]:
-    """Extract chapters from text."""
-    chapters = []
-
-    patterns = [
-        r'^(?:CHAPTER|Chapter)\s+(\d+)[:\.\s]+(.+?)$',
-        r'^(\d{1,2})\s+([A-Z][A-Za-z\s,\-]+)$',
-    ]
-
-    lines = text.split('\n')
-    chapter_positions = []
-
-    for i, line in enumerate(lines):
-        stripped = line.strip()
-        if len(stripped) < 3 or len(stripped) > 100:
-            continue
-
-        for pattern in patterns:
-            match = re.match(pattern, stripped)
-            if match:
-                chapter_positions.append({
-                    'line': i,
-                    'number': match.group(1),
-                    'title': match.group(2).strip() if len(match.groups()) > 1 else ''
-                })
-                break
-
-    for i, chap in enumerate(chapter_positions[:max_chapters]):
-        start_line = chap['line']
-        end_line = chapter_positions[i + 1]['line'] if i < len(chapter_positions) - 1 else len(lines)
-
-        content = '\n'.join(lines[start_line:end_line])
-        word_count = len(content.split())
-
-        chapters.append({
-            'number': chap['number'],
-            'title': chap['title'],
-            'content': content,
-            'word_count': word_count
-        })
-
-    return chapters
-
-
 def analyze_all_textbooks(input_dir: str, output_dir: str):
-    """Analyze all textbooks using keyword classification."""
+    """Analyze all textbooks using keyword classification on full text."""
     print("\n" + "=" * 80)
-    print("KEYWORD-BASED SEMANTIC CLASSIFICATION")
+    print("KEYWORD-BASED SEMANTIC CLASSIFICATION (FULL TEXT)")
     print("=" * 80)
 
     results = {
         'analysis_date': datetime.now().isoformat(),
-        'method': 'keyword_frequency',
+        'method': 'keyword_frequency_full_text',
         'documents': []
     }
 
@@ -185,43 +141,20 @@ def analyze_all_textbooks(input_dir: str, output_dir: str):
         year_match = re.match(r'^(\d{4})_', txt_file)
         year = int(year_match.group(1)) if year_match else 0
 
-        # Classify whole document
-        doc_classification = classify_text(text)
+        word_count = len(text.split())
 
-        # Extract and classify chapters
-        chapters = extract_chapters(text)
-        chapter_results = []
-
-        for chap in chapters:
-            chap_classification = classify_text(chap['content'])
-            chapter_results.append({
-                'number': chap['number'],
-                'title': chap['title'],
-                'word_count': chap['word_count'],
-                'classification': chap_classification
-            })
-
-        # Calculate aggregate
-        aggregate = defaultdict(float)
-        if chapter_results:
-            for chap in chapter_results:
-                for domain, pct in chap['classification'].items():
-                    aggregate[domain] += pct
-            aggregate = {k: v / len(chapter_results) for k, v in aggregate.items()}
-        else:
-            aggregate = doc_classification
+        # Classify full document
+        classification = classify_text(text)
 
         results['documents'].append({
             'filename': txt_file,
             'year': year,
-            'chapter_count': len(chapter_results),
-            'document_classification': doc_classification,
-            'aggregate_classification': dict(aggregate),
-            'chapters': chapter_results
+            'word_count': word_count,
+            'classification': classification
         })
 
         # Print top domains
-        top_domains = sorted(aggregate.items(), key=lambda x: -x[1])[:3]
+        top_domains = sorted(classification.items(), key=lambda x: -x[1])[:3]
         print(f"  Top domains: {', '.join([f'{d}: {p:.1f}%' for d, p in top_domains])}")
 
     # Save results

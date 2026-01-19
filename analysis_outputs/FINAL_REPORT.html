@@ -30,11 +30,12 @@ and key inflection points in the field's evolution.
 
 ### Key Findings
 
-- **Probabilistic Graphical Models** increased by 20.7% from early to recent era
-- **Symbolic Ai Logic** decreased by 16.7% from early to recent era
-- **Bayesian Inference** increased by 15.0% from early to recent era
-- **Supervised Learning** increased by 10.0% from early to recent era
-- **Optimization Methods** increased by 6.7% from early to recent era
+- **Bayesian Inference** increased by 10.9% from early to recent era
+- **Natural Language Processing** decreased by 10.5% from early to recent era
+- **Symbolic Ai Logic** decreased by 10.4% from early to recent era
+- **Optimization Methods** increased by 8.0% from early to recent era
+- **Planning Decision Making** decreased by 5.4% from early to recent era
+- The field has been **diversifying** (Shannon entropy: 2.99 → 3.19)
 
 <hr>
 
@@ -60,8 +61,8 @@ and key inflection points in the field's evolution.
 ### 1.2 Analysis Pipeline
 
 1. **PDF Text Extraction**: Multi-method extraction (PyMuPDF, pdfplumber, PyPDF2) with quality assessment
-2. **Text Cleaning**: Header/footer removal, OCR error correction, chapter boundary detection
-3. **Semantic Classification**: LLM-based (LLaMA 3.1 8B) chapter classification into 14 AI/ML sub-domains
+2. **Text Cleaning**: Header/footer removal, OCR error correction
+3. **Semantic Classification**: Revised keyword-based full-text classification into 14 AI/ML sub-domains
 4. **NLP Analysis**: TF-IDF, topic modeling (LDA), keyword frequency analysis
 5. **Temporal Analysis**: Era comparison, trend significance testing, inflection point identification
 
@@ -70,7 +71,6 @@ and key inflection points in the field's evolution.
 - **GPU**: NVIDIA H100 NVL (95GB)
 - **RAM**: 503GB
 - **Python**: 3.10.16
-- **LLM Model**: N/A
 
 <hr>
 
@@ -135,23 +135,23 @@ Identified **10 latent topics** across the corpus:
 
 ## 3. Semantic Content Analysis (Layer 2)
 
-*Classification method: LLM-based (LLaMA 3.1 8B)*
+*Classification method: Revised keyword-based*
 
 ### 3.1 Sub-domain Distribution by Document
 
 |Year |Document |Top Domain |% |
 |<hr><hr>|<hr><hr><hr>-|<hr><hr><hr><hr>|<hr>|
-|1983 |Machine Learning... |symbolic ai logic |33.3% |
-|1986 |Macine Learning... |planning decision making |14.0% |
-|1995 |Artificial Intelligence A Mode... |symbolic ai logic |31.5% |
-|1997 |Machine... |supervised learning |24.0% |
-|2002 |Artificial Intelligence... |symbolic ai logic |40.0% |
-|2006 |Bishop-Pattern-Recognition-and... |probabilistic graphical models |27.5% |
-|2010 |Artificial Intelligence A Mode... |symbolic ai logic |28.0% |
-|2012 |Machine Learning... |probabilistic graphical models |42.0% |
-|2014 |Artificial intelligence a mode... |bayesian inference |23.3% |
-|2014 |understanding-machine-learning... |supervised learning |27.1% |
-|2022 |Artificial Intelligence A Mode... |bayesian inference |30.0% |
+|1983 |Machine Learning... |supervised learning |20.9% |
+|1986 |Macine Learning... |supervised learning |35.7% |
+|1995 |Artificial Intelligence A Mode... |planning decision making |25.8% |
+|1997 |Machine... |supervised learning |22.0% |
+|2002 |Artificial Intelligence... |planning decision making |31.3% |
+|2006 |Bishop-Pattern-Recognition-and... |bayesian inference |28.8% |
+|2010 |Artificial Intelligence A Mode... |planning decision making |21.9% |
+|2012 |Machine Learning... |bayesian inference |33.2% |
+|2014 |Artificial intelligence a mode... |planning decision making |22.0% |
+|2014 |understanding-machine-learning... |supervised learning |24.2% |
+|2022 |Artificial Intelligence A Mode... |planning decision making |17.1% |
 
 <hr>
 
@@ -169,51 +169,51 @@ Identified **10 latent topics** across the corpus:
 
 |Sub-domain |Change (%) |Direction |
 |<hr><hr><hr><hr>|<hr><hr><hr><hr>|<hr><hr><hr>--|
-|Probabilistic Graphical Models |+20.7% |↑ Increased |
-|Symbolic Ai Logic |-16.7% |↓ Decreased |
-|Bayesian Inference |+15.0% |↑ Increased |
-|Supervised Learning |+10.0% |↑ Increased |
-|Optimization Methods |+6.7% |↑ Increased |
-|Planning Decision Making |-5.8% |↓ Decreased |
-|Natural Language Processing |-5.7% |↓ Decreased |
-|Unsupervised Learning |+5.6% |↑ Increased |
-|Statistical Learning Theory |+4.1% |↑ Increased |
-|Kernel Methods |+2.9% |↑ Increased |
+|Bayesian Inference |+10.9% |↑ Increased |
+|Natural Language Processing |-10.5% |↓ Decreased |
+|Symbolic Ai Logic |-10.4% |↓ Decreased |
+|Optimization Methods |+8.0% |↑ Increased |
+|Planning Decision Making |-5.4% |↓ Decreased |
+|Search Algorithms |-5.2% |↓ Decreased |
+|Supervised Learning |-4.4% |↓ Decreased |
+|Kernel Methods |+3.9% |↑ Increased |
+|Statistical Learning Theory |+3.7% |↑ Increased |
+|Neural Networks Deep Learning |+3.1% |↑ Increased |
 
 ### 4.3 Statistical Trend Analysis
 
 |Sub-domain |Trend |Slope |R² |Significant |
 |<hr><hr><hr><hr>|<hr><hr>-|<hr><hr>-|<hr>-|<hr><hr><hr>--  |
-|Probabilistic Graphical Models |increasing |+0.759 |0.412 |✓ |
-|Bayesian Inference |increasing |+0.610 |0.520 |✓ |
-|Symbolic Ai Logic |decreasing |-0.407 |0.103 |✓ |
-|Supervised Learning |increasing |+0.223 |0.083 |✓ |
-|Unsupervised Learning |increasing |+0.167 |0.093 |✓ |
-|Optimization Methods |increasing |+0.162 |0.187 |✓ |
-|Statistical Learning Theory |increasing |+0.120 |0.358 |✓ |
-|Reinforcement Learning |increasing |+0.118 |0.084 |✓ |
-|Natural Language Processing |decreasing |-0.098 |0.057 |✓ |
-|Planning Decision Making |decreasing |-0.077 |0.016 |✓ |
-|Kernel Methods |increasing |+0.070 |0.083 |✓ |
-|Search Algorithms |decreasing |-0.036 |0.004 |✓ |
-|Neural Networks Deep Learning |decreasing |-0.025 |0.007 |✓ |
-|Computer Vision |decreasing |-0.019 |0.023 |✓ |
-|Ensemble Methods |decreasing |-0.017 |0.005 |✓ |
+|Bayesian Inference |increasing |+0.312 |0.131 |✓ |
+|Symbolic Ai Logic |decreasing |-0.295 |0.287 |✓ |
+|Supervised Learning |decreasing |-0.293 |0.132 |✓ |
+|Natural Language Processing |decreasing |-0.287 |0.237 |✓ |
+|Optimization Methods |increasing |+0.203 |0.179 |✓ |
+|Reinforcement Learning |increasing |+0.157 |0.146 |✓ |
+|Search Algorithms |decreasing |-0.131 |0.117 |✓ |
+|Probabilistic Graphical Models |increasing |+0.123 |0.154 |✓ |
+|Kernel Methods |increasing |+0.106 |0.167 |✓ |
+|Neural Networks Deep Learning |increasing |+0.105 |0.100 |✓ |
+|Unsupervised Learning |decreasing |-0.096 |0.051 |✓ |
+|Ensemble Methods |increasing |+0.065 |0.390 |✓ |
+|Statistical Learning Theory |increasing |+0.024 |0.002 |✓ |
+|Computer Vision |increasing |+0.009 |0.010 |✓ |
+|Planning Decision Making |decreasing |-0.002 |0.000 |✓ |
 
 ### 4.4 Field Diversity Over Time
 
 |Year |Shannon Entropy |Dominant Domain |Concentration |
 |<hr><hr>|<hr><hr><hr><hr><hr>--|<hr><hr><hr><hr><hr>--|<hr><hr><hr><hr><hr>|
-|1983 |1.29 |symbolic ai logic |33.3% |
-|1986 |2.15 |planning decision making |14.0% |
-|1995 |2.88 |symbolic ai logic |31.5% |
-|1997 |2.69 |supervised learning |24.0% |
-|2002 |1.99 |symbolic ai logic |40.0% |
-|2006 |2.85 |probabilistic graphical models |27.5% |
-|2010 |2.69 |symbolic ai logic |28.0% |
-|2012 |2.63 |probabilistic graphical models |42.0% |
-|2014 |2.60 |supervised learning |27.1% |
-|2022 |2.62 |bayesian inference |30.0% |
+|1983 |2.94 |supervised learning |20.9% |
+|1986 |2.82 |supervised learning |35.7% |
+|1995 |3.22 |planning decision making |25.8% |
+|1997 |3.12 |supervised learning |22.0% |
+|2002 |2.92 |planning decision making |31.3% |
+|2006 |2.82 |bayesian inference |28.8% |
+|2010 |3.47 |planning decision making |21.9% |
+|2012 |2.90 |bayesian inference |33.2% |
+|2014 |2.81 |supervised learning |24.2% |
+|2022 |3.57 |planning decision making |17.1% |
 
 ### 4.5 Historical Inflection Points
 
@@ -298,6 +298,6 @@ python3 code/generate_report.py
 
 <hr>
 
-*Report generated: 2026-01-19 12:29:10*
+*Report generated: 2026-01-19 12:54:49*
 </body>
 </html>

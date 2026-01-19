@@ -75,9 +75,11 @@ class TemporalAnalyzer:
 
         for doc in self.semantic_results['documents']:
             year = doc['year']
+            # Support both old (aggregate_classification) and new (classification) format
+            classification = doc.get('aggregate_classification') or doc.get('classification', {})
             for era_name, (start, end, _) in self.ERAS.items():
                 if start <= year <= end:
-                    for domain, pct in doc['aggregate_classification'].items():
+                    for domain, pct in classification.items():
                         era_data[era_name][domain].append(pct)
                     break
 
@@ -171,7 +173,8 @@ class TemporalAnalyzer:
 
         for doc in self.semantic_results['documents']:
             year = doc['year']
-            classification = doc['aggregate_classification']
+            # Support both old (aggregate_classification) and new (classification) format
+            classification = doc.get('aggregate_classification') or doc.get('classification', {})
 
             # Calculate Shannon entropy (diversity)
             values = [v for v in classification.values() if v > 0]
@@ -206,7 +209,9 @@ class TemporalAnalyzer:
 
         for doc in self.semantic_results['documents']:
             years.append(doc['year'])
-            for domain, pct in doc['aggregate_classification'].items():
+            # Support both old (aggregate_classification) and new (classification) format
+            classification = doc.get('aggregate_classification') or doc.get('classification', {})
+            for domain, pct in classification.items():
                 domain_values[domain].append(pct)
 
         # Linear regression for each domain

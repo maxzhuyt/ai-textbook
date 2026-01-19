@@ -1,17 +1,15 @@
 #!/usr/bin/env python3
 """
 Revised Semantic Classification with Conceptually Isolated Sub-domains
-Uses both keyword-based and LLM-based approaches.
+Uses keyword-based approach on full text (no chapter segmentation).
 """
 
 import os
 import re
 import json
-import torch
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, List, Tuple
-from collections import defaultdict
+from typing import Dict
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -184,59 +182,15 @@ def classify_text_keywords(text: str) -> Dict[str, float]:
     return scores
 
 
-def extract_chapters(text: str, max_chapters: int = 25) -> List[Dict]:
-    """Extract chapters from text."""
-    chapters = []
-
-    patterns = [
-        r'^(?:CHAPTER|Chapter)\s+(\d+)[:\.\s]+(.+?)$',
-        r'^(\d{1,2})\s+([A-Z][A-Za-z\s,\-]+)$',
-    ]
-
-    lines = text.split('\n')
-    chapter_positions = []
-
-    for i, line in enumerate(lines):
-        stripped = line.strip()
-        if len(stripped) < 3 or len(stripped) > 100:
-            continue
-
-        for pattern in patterns:
-            match = re.match(pattern, stripped)
-            if match:
-                chapter_positions.append({
-                    'line': i,
-                    'number': match.group(1),
-                    'title': match.group(2).strip() if len(match.groups()) > 1 else ''
-                })
-                break
-
-    for i, chap in enumerate(chapter_positions[:max_chapters]):
-        start_line = chap['line']
-        end_line = chapter_positions[i + 1]['line'] if i < len(chapter_positions) - 1 else len(lines)
-
-        content = '\n'.join(lines[start_line:end_line])
-        word_count = len(content.split())
-
-        chapters.append({
-            'number': chap['number'],
-            'title': chap['title'],
-            'content': content,
-            'word_count': word_count
-        })
-
-    return chapters
-
-
 def run_keyword_classification(input_dir: str, output_dir: str) -> Dict:
-    """Run keyword-based classification with revised taxonomy."""
+    """Run keyword-based classification with revised taxonomy on full text."""
     print("\n" + "=" * 80)
-    print("REVISED KEYWORD-BASED CLASSIFICATION")
+    print("REVISED KEYWORD-BASED CLASSIFICATION (FULL TEXT)")
     print("=" * 80)
 
     results = {
         'analysis_date': datetime.now().isoformat(),
-        'method': 'revised_keyword_taxonomy',
+        'method': 'revised_keyword_taxonomy_full_text',
         'taxonomy': {k: v['description'] for k, v in SUBDOMAIN_TAXONOMY.items()},
         'documents': []
     }
@@ -253,43 +207,20 @@ def run_keyword_classification(input_dir: str, output_dir: str) -> Dict:
         year_match = re.match(r'^(\d{4})_', txt_file)
         year = int(year_match.group(1)) if year_match else 0
 
-        # Classify whole document
-        doc_classification = classify_text_keywords(text)
+        word_count = len(text.split())
 
-        # Extract and classify chapters
-        chapters = extract_chapters(text)
-        chapter_results = []
-
-        for chap in chapters:
-            chap_classification = classify_text_keywords(chap['content'])
-            chapter_results.append({
-                'number': chap['number'],
-                'title': chap['title'],
-                'word_count': chap['word_count'],
-                'classification': chap_classification
-            })
-
-        # Calculate aggregate from chapters
-        aggregate = defaultdict(float)
-        if chapter_results:
-            for chap in chapter_results:
-                for domain, pct in chap['classification'].items():
-                    aggregate[domain] += pct
-            aggregate = {k: v / len(chapter_results) for k, v in aggregate.items()}
-        else:
-            aggregate = doc_classification
+        # Classify full document
+        classification = classify_text_keywords(text)
 
         results['documents'].append({
             'filename': txt_file,
             'year': year,
-            'chapter_count': len(chapter_results),
-            'document_classification': doc_classification,
-            'aggregate_classification': dict(aggregate),
-            'chapters': chapter_results[:15]  # Store first 15 chapters
+            'word_count': word_count,
+            'classification': classification
         })
 
         # Print top domains
-        top_domains = sorted(aggregate.items(), key=lambda x: -x[1])[:3]
+        top_domains = sorted(classification.items(), key=lambda x: -x[1])[:3]
         top_str = ', '.join([f"{d.replace('_', ' ')}: {p:.1f}%" for d, p in top_domains])
         print(f"  Top: {top_str}")
 
@@ -449,15 +380,11 @@ def main():
 
     os.makedirs(output_dir, exist_ok=True)
 
-    # Run keyword classification first (fast)
+    # Run keyword classification on full text (fast, no chapter segmentation)
     keyword_results = run_keyword_classification(input_dir, output_dir)
 
-    # Run LLM classification
-    model_path = "/project/jevans/maxzhuyt/models/Meta-Llama-3.1-8B-Instruct"
-    if os.path.exists(model_path):
-        llm_results = run_llm_classification(input_dir, output_dir, model_path)
-    else:
-        print(f"\nLLM model not found at {model_path}")
+    # LLM classification skipped - using keyword-based full text analysis only
+    print("\n[INFO] LLM classification skipped - using keyword-based full text analysis")
 
 
 if __name__ == "__main__":

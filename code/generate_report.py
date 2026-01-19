@@ -96,8 +96,8 @@ def generate_markdown_report(output_dir: str) -> str:
     report.append("### 1.2 Analysis Pipeline")
     report.append("")
     report.append("1. **PDF Text Extraction**: Multi-method extraction (PyMuPDF, pdfplumber, PyPDF2) with quality assessment")
-    report.append("2. **Text Cleaning**: Header/footer removal, OCR error correction, chapter boundary detection")
-    report.append(f"3. **Semantic Classification**: {semantic_method} chapter classification into 14 AI/ML sub-domains")
+    report.append("2. **Text Cleaning**: Header/footer removal, OCR error correction")
+    report.append(f"3. **Semantic Classification**: {semantic_method} full-text classification into 14 AI/ML sub-domains")
     report.append("4. **NLP Analysis**: TF-IDF, topic modeling (LDA), keyword frequency analysis")
     report.append("5. **Temporal Analysis**: Era comparison, trend significance testing, inflection point identification")
     report.append("")
@@ -174,8 +174,9 @@ def generate_markdown_report(output_dir: str) -> str:
         report.append("|------|----------|------------|---|")
 
         for doc in sorted(semantic['documents'], key=lambda x: x['year']):
-            agg = doc['aggregate_classification']
-            top_domain = max(agg.items(), key=lambda x: x[1])
+            # Support both old (aggregate_classification) and new (classification) format
+            classification = doc.get('aggregate_classification') or doc.get('classification', {})
+            top_domain = max(classification.items(), key=lambda x: x[1])
             short_name = doc['filename'].split('_')[1][:30] if '_' in doc['filename'] else doc['filename'][:30]
             report.append(f"| {doc['year']} | {short_name}... | {top_domain[0].replace('_', ' ')} | {top_domain[1]:.1f}% |")
         report.append("")

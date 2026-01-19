@@ -1,110 +1,110 @@
 {
-  "analysis_date": "2026-01-19T12:29:01.625774",
+  "analysis_date": "2026-01-19T12:54:39.125288",
   "era_analysis": {
     "era_averages": {
       "early": {
-        "supervised_learning": 1.3333333333333333,
-        "unsupervised_learning": 0.0,
-        "neural_networks_deep_learning": 3.0,
-        "probabilistic_graphical_models": 1.0,
-        "bayesian_inference": 1.1666666666666667,
-        "reinforcement_learning": 0.3333333333333333,
-        "optimization_methods": 0.6666666666666666,
-        "statistical_learning_theory": 1.3333333333333333,
-        "kernel_methods": 0.0,
-        "natural_language_processing": 5.666666666666667,
-        "computer_vision": 1.6666666666666667,
-        "symbolic_ai_logic": 23.611111111111114,
-        "search_algorithms": 4.777777777777778,
-        "planning_decision_making": 9.444444444444445,
-        "ensemble_methods": 3.2222222222222228
+        "supervised_learning": 20.89636822763646,
+        "unsupervised_learning": 7.02004300922079,
+        "neural_networks_deep_learning": 2.2802635895386034,
+        "probabilistic_graphical_models": 1.5105012938556899,
+        "bayesian_inference": 2.9305921582695844,
+        "reinforcement_learning": 3.3775396914902482,
+        "optimization_methods": 0.9907822797733182,
+        "statistical_learning_theory": 2.7159422473930293,
+        "kernel_methods": 0.4785341937044723,
+        "natural_language_processing": 15.212324841797141,
+        "computer_vision": 2.193652547456729,
+        "symbolic_ai_logic": 14.977468988637751,
+        "search_algorithms": 9.802520769198372,
+        "planning_decision_making": 15.413411099564504,
+        "ensemble_methods": 0.2000550624633053
       },
       "middle": {
-        "supervised_learning": 10.5,
-        "unsupervised_learning": 4.625,
-        "neural_networks_deep_learning": 4.625,
-        "probabilistic_graphical_models": 13.375,
-        "bayesian_inference": 7.25,
-        "reinforcement_learning": 5.0,
-        "optimization_methods": 3.375,
-        "statistical_learning_theory": 3.375,
-        "kernel_methods": 0.875,
-        "natural_language_processing": 0.25,
-        "computer_vision": 0.25,
-        "symbolic_ai_logic": 22.5,
-        "search_algorithms": 5.75,
-        "planning_decision_making": 10.0,
-        "ensemble_methods": 1.375
+        "supervised_learning": 13.587320948355462,
+        "unsupervised_learning": 4.3484543756212775,
+        "neural_networks_deep_learning": 7.052578599087545,
+        "probabilistic_graphical_models": 5.626343143273889,
+        "bayesian_inference": 13.140535521243965,
+        "reinforcement_learning": 6.253908031106723,
+        "optimization_methods": 5.9822419540199325,
+        "statistical_learning_theory": 5.934594681947118,
+        "kernel_methods": 3.3042403325171654,
+        "natural_language_processing": 7.186513151256032,
+        "computer_vision": 1.5114225156148484,
+        "symbolic_ai_logic": 7.117783922349695,
+        "search_algorithms": 4.551398079923617,
+        "planning_decision_making": 13.801648887733156,
+        "ensemble_methods": 0.601015855949574
       },
       "recent": {
-        "supervised_learning": 11.285714285714285,
-        "unsupervised_learning": 5.571428571428571,
-        "neural_networks_deep_learning": 1.6785714285714286,
-        "probabilistic_graphical_models": 21.714285714285715,
-        "bayesian_inference": 16.208333333333332,
-        "reinforcement_learning": 3.0,
-        "optimization_methods": 7.410714285714286,
-        "statistical_learning_theory": 5.4523809523809526,
-        "kernel_methods": 2.857142857142857,
-        "natural_language_processing": 0.0,
-        "computer_vision": 0.5,
-        "symbolic_ai_logic": 6.916666666666667,
-        "search_algorithms": 3.8333333333333335,
-        "planning_decision_making": 3.6666666666666665,
-        "ensemble_methods": 3.0714285714285716
+        "supervised_learning": 16.512990497627523,
+        "unsupervised_learning": 5.963367894366865,
+        "neural_networks_deep_learning": 5.412589576155957,
+        "probabilistic_graphical_models": 4.4121229995604345,
+        "bayesian_inference": 13.808659747624679,
+        "reinforcement_learning": 6.070786520763595,
+        "optimization_methods": 8.977306077712292,
+        "statistical_learning_theory": 6.456389075250329,
+        "kernel_methods": 4.349814518797688,
+        "natural_language_processing": 4.728732189848699,
+        "computer_vision": 1.7982337939148763,
+        "symbolic_ai_logic": 4.573857989258519,
+        "search_algorithms": 4.5754262205965315,
+        "planning_decision_making": 10.058706732613775,
+        "ensemble_methods": 2.30101616590824
       }
     },
     "shifts": {
       "early_to_middle": {
-        "supervised_learning": 9.166666666666666,
-        "unsupervised_learning": 4.625,
-        "neural_networks_deep_learning": 1.625,
-        "probabilistic_graphical_models": 12.375,
-        "bayesian_inference": 6.083333333333333,
-        "reinforcement_learning": 4.666666666666667,
-        "optimization_methods": 2.7083333333333335,
-        "statistical_learning_theory": 2.041666666666667,
-        "kernel_methods": 0.875,
-        "natural_language_processing": -5.416666666666667,
-        "computer_vision": -1.4166666666666667,
-        "symbolic_ai_logic": -1.1111111111111143,
-        "search_algorithms": 0.9722222222222223,
-        "planning_decision_making": 0.5555555555555554,
-        "ensemble_methods": -1.8472222222222228
+        "supervised_learning": -7.309047279281,
+        "unsupervised_learning": -2.6715886335995123,
+        "neural_networks_deep_learning": 4.772315009548942,
+        "probabilistic_graphical_models": 4.115841849418199,
+        "bayesian_inference": 10.20994336297438,
+        "reinforcement_learning": 2.876368339616475,
+        "optimization_methods": 4.991459674246614,
+        "statistical_learning_theory": 3.218652434554089,
+        "kernel_methods": 2.825706138812693,
+        "natural_language_processing": -8.025811690541108,
+        "computer_vision": -0.6822300318418806,
+        "symbolic_ai_logic": -7.859685066288057,
+        "search_algorithms": -5.251122689274755,
+        "planning_decision_making": -1.6117622118313477,
+        "ensemble_methods": 0.4009607934862687
       },
       "middle_to_recent": {
-        "supervised_learning": 0.7857142857142847,
-        "unsupervised_learning": 0.9464285714285712,
-        "neural_networks_deep_learning": -2.946428571428571,
-        "probabilistic_graphical_models": 8.339285714285715,
-        "bayesian_inference": 8.958333333333332,
-        "reinforcement_learning": -2.0,
-        "optimization_methods": 4.035714285714286,
-        "statistical_learning_theory": 2.0773809523809526,
-        "kernel_methods": 1.9821428571428572,
-        "natural_language_processing": -0.25,
-        "computer_vision": 0.25,
-        "symbolic_ai_logic": -15.583333333333332,
-        "search_algorithms": -1.9166666666666665,
-        "planning_decision_making": -6.333333333333334,
-        "ensemble_methods": 1.6964285714285716
+        "supervised_learning": 2.9256695492720617,
+        "unsupervised_learning": 1.6149135187455874,
+        "neural_networks_deep_learning": -1.639989022931588,
+        "probabilistic_graphical_models": -1.2142201437134545,
+        "bayesian_inference": 0.6681242263807139,
+        "reinforcement_learning": -0.1831215103431285,
+        "optimization_methods": 2.9950641236923596,
+        "statistical_learning_theory": 0.5217943933032112,
+        "kernel_methods": 1.0455741862805223,
+        "natural_language_processing": -2.457780961407333,
+        "computer_vision": 0.28681127830002784,
+        "symbolic_ai_logic": -2.5439259330911757,
+        "search_algorithms": 0.02402814067291459,
+        "planning_decision_making": -3.7429421551193816,
+        "ensemble_methods": 1.7000003099586662
       },
       "early_to_recent": {
-        "supervised_learning": 9.95238095238095,
-        "unsupervised_learning": 5.571428571428571,
-        "neural_networks_deep_learning": -1.3214285714285714,
-        "probabilistic_graphical_models": 20.714285714285715,
-        "bayesian_inference": 15.041666666666666,
-        "reinforcement_learning": 2.6666666666666665,
-        "optimization_methods": 6.744047619047619,
-        "statistical_learning_theory": 4.1190476190476195,
-        "kernel_methods": 2.857142857142857,
-        "natural_language_processing": -5.666666666666667,
-        "computer_vision": -1.1666666666666667,
-        "symbolic_ai_logic": -16.694444444444446,
-        "search_algorithms": -0.9444444444444442,
-        "planning_decision_making": -5.777777777777779,
-        "ensemble_methods": -0.15079365079365115
+        "supervised_learning": -4.383377730008938,
+        "unsupervised_learning": -1.0566751148539248,
+        "neural_networks_deep_learning": 3.132325986617354,
+        "probabilistic_graphical_models": 2.901621705704745,
+        "bayesian_inference": 10.878067589355094,
+        "reinforcement_learning": 2.6932468292733467,
+        "optimization_methods": 7.986523797938974,
+        "statistical_learning_theory": 3.7404468278573,
+        "kernel_methods": 3.8712803250932155,
+        "natural_language_processing": -10.483592651948442,
+        "computer_vision": -0.39541875354185274,
+        "symbolic_ai_logic": -10.403610999379232,
+        "search_algorithms": -5.2270945486018405,
+        "planning_decision_making": -5.354704366950729,
+        "ensemble_methods": 2.100961103444935
       }
     },
     "era_definitions": {
@@ -275,220 +275,214 @@
   ],
   "diversity_metrics": {
     "1983": {
-      "shannon_entropy": 1.2916919971380594,
-      "gini_coefficient": 0.5,
-      "dominant_domain": "symbolic_ai_logic",
-      "dominant_percentage": 33.333333333333336
+      "shannon_entropy": 2.9404665190381807,
+      "gini_coefficient": 0.5144814699470568,
+      "dominant_domain": "supervised_learning",
+      "dominant_percentage": 20.89068825910931
     },
     "1986": {
-      "shannon_entropy": 2.1464657985040723,
-      "gini_coefficient": 0.411111111111111,
-      "dominant_domain": "planning_decision_making",
-      "dominant_percentage": 14.0
+      "shannon_entropy": 2.816740039038201,
+      "gini_coefficient": 0.6156462585034015,
+      "dominant_domain": "supervised_learning",
+      "dominant_percentage": 35.714285714285715
     },
     "1995": {
-      "shannon_entropy": 2.876921488031575,
-      "gini_coefficient": 0.48612440191387574,
-      "dominant_domain": "symbolic_ai_logic",
-      "dominant_percentage": 31.5
+      "shannon_entropy": 3.2167404746886663,
+      "gini_coefficient": 0.4873365486292007,
+      "dominant_domain": "planning_decision_making",
+      "dominant_percentage": 25.780826864054884
     },
     "1997": {
-      "shannon_entropy": 2.691323168161385,
-      "gini_coefficient": 0.5544332210998879,
+      "shannon_entropy": 3.1154389773898723,
+      "gini_coefficient": 0.5577699339306721,
       "dominant_domain": "supervised_learning",
-      "dominant_percentage": 24.0
+      "dominant_percentage": 21.965788759163726
     },
     "2002": {
-      "shannon_entropy": 1.9920992388022623,
-      "gini_coefficient": 0.5582922824302134,
-      "dominant_domain": "symbolic_ai_logic",
-      "dominant_percentage": 40.0
+      "shannon_entropy": 2.9157194804325575,
+      "gini_coefficient": 0.5569050832208726,
+      "dominant_domain": "planning_decision_making",
+      "dominant_percentage": 31.28654970760234
     },
     "2006": {
-      "shannon_entropy": 2.845371211250619,
-      "gini_coefficient": 0.4487179487179487,
-      "dominant_domain": "probabilistic_graphical_models",
-      "dominant_percentage": 27.5
+      "shannon_entropy": 2.8173605981219056,
+      "gini_coefficient": 0.6413812464907356,
+      "dominant_domain": "bayesian_inference",
+      "dominant_percentage": 28.832116788321166
     },
     "2010": {
-      "shannon_entropy": 2.6931671610965444,
-      "gini_coefficient": 0.546304163126593,
-      "dominant_domain": "symbolic_ai_logic",
-      "dominant_percentage": 28.0
+      "shannon_entropy": 3.47284241123198,
+      "gini_coefficient": 0.41658285841993536,
+      "dominant_domain": "planning_decision_making",
+      "dominant_percentage": 21.913062912057214
     },
     "2012": {
-      "shannon_entropy": 2.629002142161487,
-      "gini_coefficient": 0.5020408163265304,
-      "dominant_domain": "probabilistic_graphical_models",
-      "dominant_percentage": 42.0
+      "shannon_entropy": 2.904065163987405,
+      "gini_coefficient": 0.6219698403684772,
+      "dominant_domain": "bayesian_inference",
+      "dominant_percentage": 33.229225818663636
     },
     "2014": {
-      "shannon_entropy": 2.6049292703203983,
-      "gini_coefficient": 0.4040178571428572,
+      "shannon_entropy": 2.80941018854852,
+      "gini_coefficient": 0.6088014153029635,
       "dominant_domain": "supervised_learning",
-      "dominant_percentage": 27.142857142857142
+      "dominant_percentage": 24.174406604747162
     },
     "2022": {
-      "shannon_entropy": 2.624748880284531,
-      "gini_coefficient": 0.5259259259259259,
-      "dominant_domain": "bayesian_inference",
-      "dominant_percentage": 30.0
+      "shannon_entropy": 3.573729908002323,
+      "gini_coefficient": 0.3757383408269417,
+      "dominant_domain": "planning_decision_making",
+      "dominant_percentage": 17.05016309618267
     }
   },
   "trend_analysis": {
     "supervised_learning": {
-      "slope": 0.22296538343714895,
-      "r_squared": 0.08268960861723802,
-      "p_value": 0.3912035707060555,
-      "trend": "increasing",
-      "significant": "False"
-    },
-    "unsupervised_learning": {
-      "slope": 0.16707086694577758,
-      "r_squared": 0.09278849206335388,
-      "p_value": 0.3624053313006832,
-      "trend": "increasing",
-      "significant": "False"
-    },
-    "neural_networks_deep_learning": {
-      "slope": -0.024588141189284866,
-      "r_squared": 0.006912429726746176,
-      "p_value": 0.8079832542526724,
+      "slope": -0.2928168882063092,
+      "r_squared": 0.1321388249724452,
+      "p_value": 0.27181801419993484,
       "trend": "decreasing",
       "significant": "False"
     },
-    "probabilistic_graphical_models": {
-      "slope": 0.7585392627386911,
-      "r_squared": 0.41166878876756047,
-      "p_value": 0.03333901772823366,
+    "unsupervised_learning": {
+      "slope": -0.09561323602731639,
+      "r_squared": 0.05050851056537194,
+      "p_value": 0.5064418746668725,
+      "trend": "decreasing",
+      "significant": "False"
+    },
+    "neural_networks_deep_learning": {
+      "slope": 0.10450592622732377,
+      "r_squared": 0.10001295213054719,
+      "p_value": 0.34340342324520895,
       "trend": "increasing",
-      "significant": "True"
+      "significant": "False"
+    },
+    "probabilistic_graphical_models": {
+      "slope": 0.1234762839988772,
+      "r_squared": 0.15374164612806446,
+      "p_value": 0.23299252367565784,
+      "trend": "increasing",
+      "significant": "False"
     },
     "bayesian_inference": {
-      "slope": 0.610267254388055,
-      "r_squared": 0.5201740451182298,
-      "p_value": 0.012247594975302735,
+      "slope": 0.31167087890317174,
+      "r_squared": 0.13065069191459816,
+      "p_value": 0.2747369651101594,
       "trend": "increasing",
-      "significant": "True"
+      "significant": "False"
     },
     "reinforcement_learning": {
-      "slope": 0.11794138670478914,
-      "r_squared": 0.08358051026323639,
-      "p_value": 0.38854895990066163,
+      "slope": 0.15665194948269,
+      "r_squared": 0.1461874699194535,
+      "p_value": 0.2458539689085002,
       "trend": "increasing",
       "significant": "False"
     },
     "optimization_methods": {
-      "slope": 0.1623268320909493,
-      "r_squared": 0.1873183732896229,
-      "p_value": 0.1836495192856348,
+      "slope": 0.20278146690730572,
+      "r_squared": 0.17939262751008378,
+      "p_value": 0.19425591224167896,
       "trend": "increasing",
       "significant": "False"
     },
     "statistical_learning_theory": {
-      "slope": 0.11978652552276572,
-      "r_squared": 0.3575994835799567,
-      "p_value": 0.051988071944800686,
+      "slope": 0.024458312341560307,
+      "r_squared": 0.0016434043438852128,
+      "p_value": 0.9057976326490308,
       "trend": "increasing",
       "significant": "False"
     },
     "kernel_methods": {
-      "slope": 0.0703436127846421,
-      "r_squared": 0.08295988679601161,
-      "p_value": 0.3903957660681582,
+      "slope": 0.10559923833262597,
+      "r_squared": 0.16713786044489834,
+      "p_value": 0.21187129976421262,
       "trend": "increasing",
       "significant": "False"
     },
     "natural_language_processing": {
-      "slope": -0.09834405527757922,
-      "r_squared": 0.056652489624313775,
-      "p_value": 0.4809463586260744,
+      "slope": -0.2870114006087294,
+      "r_squared": 0.23681903858491665,
+      "p_value": 0.12902689537981668,
       "trend": "decreasing",
       "significant": "False"
     },
     "computer_vision": {
-      "slope": -0.018882535144150583,
-      "r_squared": 0.022502870829683205,
-      "p_value": 0.6597618753711373,
-      "trend": "decreasing",
+      "slope": 0.008846320396102801,
+      "r_squared": 0.00998182679292293,
+      "p_value": 0.7700793421605354,
+      "trend": "increasing",
       "significant": "False"
     },
     "symbolic_ai_logic": {
-      "slope": -0.4071757604638234,
-      "r_squared": 0.1030275459749931,
-      "p_value": 0.335830847731873,
+      "slope": -0.29492491494892625,
+      "r_squared": 0.2865874522190329,
+      "p_value": 0.0896833291049438,
       "trend": "decreasing",
       "significant": "False"
     },
     "search_algorithms": {
-      "slope": -0.035580970534508774,
-      "r_squared": 0.0037831434198314765,
-      "p_value": 0.8574284626509389,
+      "slope": -0.13132546528495306,
+      "r_squared": 0.11723955865318551,
+      "p_value": 0.3026626313006265,
       "trend": "decreasing",
       "significant": "False"
     },
     "planning_decision_making": {
-      "slope": -0.07711857676117864,
-      "r_squared": 0.015786817575918023,
-      "p_value": 0.7127950769835555,
+      "slope": -0.0017343477531993445,
+      "r_squared": 3.528377059175958e-06,
+      "p_value": 0.9956267152534124,
       "trend": "decreasing",
       "significant": "False"
     },
     "ensemble_methods": {
-      "slope": -0.01746570679737228,
-      "r_squared": 0.005149646246669448,
-      "p_value": 0.83392518026897,
-      "trend": "decreasing",
-      "significant": "False"
+      "slope": 0.06543587623977622,
+      "r_squared": 0.3897567512577906,
+      "p_value": 0.040058868595888926,
+      "trend": "increasing",
+      "significant": "True"
     }
   },
   "key_findings": [
     {
       "type": "significant_trend",
-      "domain": "probabilistic_graphical_models",
+      "domain": "ensemble_methods",
       "direction": "increasing",
-      "r_squared": 0.41166878876756047
-    },
-    {
-      "type": "significant_trend",
-      "domain": "bayesian_inference",
-      "direction": "increasing",
-      "r_squared": 0.5201740451182298
+      "r_squared": 0.3897567512577906
     },
     {
       "type": "era_shift",
-      "domain": "probabilistic_graphical_models",
-      "change": 20.714285714285715,
+      "domain": "bayesian_inference",
+      "change": 10.878067589355094,
       "direction": "increased"
     },
     {
       "type": "era_shift",
-      "domain": "symbolic_ai_logic",
-      "change": -16.694444444444446,
+      "domain": "natural_language_processing",
+      "change": -10.483592651948442,
       "direction": "decreased"
     },
     {
       "type": "era_shift",
-      "domain": "bayesian_inference",
-      "change": 15.041666666666666,
-      "direction": "increased"
-    },
-    {
-      "type": "era_shift",
-      "domain": "supervised_learning",
-      "change": 9.95238095238095,
-      "direction": "increased"
+      "domain": "symbolic_ai_logic",
+      "change": -10.403610999379232,
+      "direction": "decreased"
     },
     {
       "type": "era_shift",
       "domain": "optimization_methods",
-      "change": 6.744047619047619,
+      "change": 7.986523797938974,
       "direction": "increased"
     },
     {
+      "type": "era_shift",
+      "domain": "planning_decision_making",
+      "change": -5.354704366950729,
+      "direction": "decreased"
+    },
+    {
       "type": "diversity_change",
-      "early_entropy": 2.1050264278912354,
-      "recent_entropy": 2.63796186346574,
+      "early_entropy": 2.9913156775883496,
+      "recent_entropy": 3.190011917942557,
       "direction": "diversifying"
     }
   ]
